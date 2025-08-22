@@ -25,7 +25,6 @@ with open('models/sentiment_vader.pkl', 'rb') as f:
     sentiment_model = pickle.load(f)
 with open('models/kmeans.pkl', 'rb') as f:
     kmeans_model = pickle.load(f)
-tts_generator = TTSGenerator(voice="en-US-AriaNeural")
 
 
 @app.route('/')
