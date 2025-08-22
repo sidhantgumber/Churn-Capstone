@@ -270,7 +270,7 @@ KMeans:
 Linear Regression (Sales Forecasting):
 {
   "model_type": "linreg",
-  "features": [8, 3, 0.5, 0.866, 12, 2, 1, 100, 25000, 3, 100, 0.05, 0.02, 200, 50, 1000, 45, 5000, 0.8, 0.1, 0.1, 0.05, 0.02]
+  "features": [8, 3, 0.5, 0.866, 12, 2, 1, 100, 25000, 3, 100, 0.05, 0.02, 200, 50, 1000, 45, 5000, 0.8, 0.1, 0.1]
   // Replace with actual monthly feature values in correct order
 }
 
