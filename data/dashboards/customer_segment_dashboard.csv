@@ -1,0 +1,1968 @@
+customer_id,cluster,segment_name
+CUST00001,1,Dormant Regulars (Disengaged/Neutral)
+CUST00002,2,Discontent Dormant (High Negative Feedback)
+CUST00003,1,Dormant Regulars (Disengaged/Neutral)
+CUST00004,0,Cooling Regulars (At-Risk)
+CUST00005,4,One-Timer / Lapsed Episodic
+CUST00006,3,VIP Loyal
+CUST00007,1,Dormant Regulars (Disengaged/Neutral)
+CUST00008,1,Dormant Regulars (Disengaged/Neutral)
+CUST00009,1,Dormant Regulars (Disengaged/Neutral)
+CUST00010,1,Dormant Regulars (Disengaged/Neutral)
+CUST00011,3,VIP Loyal
+CUST00012,2,Discontent Dormant (High Negative Feedback)
+CUST00013,4,One-Timer / Lapsed Episodic
+CUST00014,0,Cooling Regulars (At-Risk)
+CUST00015,1,Dormant Regulars (Disengaged/Neutral)
+CUST00016,2,Discontent Dormant (High Negative Feedback)
+CUST00017,0,Cooling Regulars (At-Risk)
+CUST00018,0,Cooling Regulars (At-Risk)
+CUST00019,0,Cooling Regulars (At-Risk)
+CUST00020,0,Cooling Regulars (At-Risk)
+CUST00021,0,Cooling Regulars (At-Risk)
+CUST00022,3,VIP Loyal
+CUST00023,3,VIP Loyal
+CUST00025,1,Dormant Regulars (Disengaged/Neutral)
+CUST00026,0,Cooling Regulars (At-Risk)
+CUST00027,0,Cooling Regulars (At-Risk)
+CUST00028,3,VIP Loyal
+CUST00029,3,VIP Loyal
+CUST00030,0,Cooling Regulars (At-Risk)
+CUST00031,3,VIP Loyal
+CUST00032,4,One-Timer / Lapsed Episodic
+CUST00033,2,Discontent Dormant (High Negative Feedback)
+CUST00034,0,Cooling Regulars (At-Risk)
+CUST00035,0,Cooling Regulars (At-Risk)
+CUST00036,1,Dormant Regulars (Disengaged/Neutral)
+CUST00037,0,Cooling Regulars (At-Risk)
+CUST00038,3,VIP Loyal
+CUST00040,3,VIP Loyal
+CUST00041,2,Discontent Dormant (High Negative Feedback)
+CUST00042,2,Discontent Dormant (High Negative Feedback)
+CUST00043,0,Cooling Regulars (At-Risk)
+CUST00044,1,Dormant Regulars (Disengaged/Neutral)
+CUST00045,3,VIP Loyal
+CUST00046,4,One-Timer / Lapsed Episodic
+CUST00047,3,VIP Loyal
+CUST00048,0,Cooling Regulars (At-Risk)
+CUST00049,0,Cooling Regulars (At-Risk)
+CUST00050,1,Dormant Regulars (Disengaged/Neutral)
+CUST00051,0,Cooling Regulars (At-Risk)
+CUST00052,1,Dormant Regulars (Disengaged/Neutral)
+CUST00053,3,VIP Loyal
+CUST00054,0,Cooling Regulars (At-Risk)
+CUST00055,2,Discontent Dormant (High Negative Feedback)
+CUST00056,2,Discontent Dormant (High Negative Feedback)
+CUST00057,3,VIP Loyal
+CUST00058,1,Dormant Regulars (Disengaged/Neutral)
+CUST00059,0,Cooling Regulars (At-Risk)
+CUST00060,1,Dormant Regulars (Disengaged/Neutral)
+CUST00061,2,Discontent Dormant (High Negative Feedback)
+CUST00062,1,Dormant Regulars (Disengaged/Neutral)
+CUST00063,1,Dormant Regulars (Disengaged/Neutral)
+CUST00064,3,VIP Loyal
+CUST00065,1,Dormant Regulars (Disengaged/Neutral)
+CUST00066,1,Dormant Regulars (Disengaged/Neutral)
+CUST00067,0,Cooling Regulars (At-Risk)
+CUST00068,1,Dormant Regulars (Disengaged/Neutral)
+CUST00069,2,Discontent Dormant (High Negative Feedback)
+CUST00070,2,Discontent Dormant (High Negative Feedback)
+CUST00071,0,Cooling Regulars (At-Risk)
+CUST00072,0,Cooling Regulars (At-Risk)
+CUST00073,2,Discontent Dormant (High Negative Feedback)
+CUST00074,2,Discontent Dormant (High Negative Feedback)
+CUST00075,3,VIP Loyal
+CUST00076,2,Discontent Dormant (High Negative Feedback)
+CUST00077,2,Discontent Dormant (High Negative Feedback)
+CUST00078,1,Dormant Regulars (Disengaged/Neutral)
+CUST00079,4,One-Timer / Lapsed Episodic
+CUST00080,1,Dormant Regulars (Disengaged/Neutral)
+CUST00081,0,Cooling Regulars (At-Risk)
+CUST00082,0,Cooling Regulars (At-Risk)
+CUST00083,2,Discontent Dormant (High Negative Feedback)
+CUST00084,3,VIP Loyal
+CUST00085,0,Cooling Regulars (At-Risk)
+CUST00086,4,One-Timer / Lapsed Episodic
+CUST00087,1,Dormant Regulars (Disengaged/Neutral)
+CUST00088,1,Dormant Regulars (Disengaged/Neutral)
+CUST00089,4,One-Timer / Lapsed Episodic
+CUST00090,0,Cooling Regulars (At-Risk)
+CUST00091,2,Discontent Dormant (High Negative Feedback)
+CUST00092,1,Dormant Regulars (Disengaged/Neutral)
+CUST00093,4,One-Timer / Lapsed Episodic
+CUST00094,1,Dormant Regulars (Disengaged/Neutral)
+CUST00095,1,Dormant Regulars (Disengaged/Neutral)
+CUST00096,2,Discontent Dormant (High Negative Feedback)
+CUST00097,0,Cooling Regulars (At-Risk)
+CUST00098,1,Dormant Regulars (Disengaged/Neutral)
+CUST00099,4,One-Timer / Lapsed Episodic
+CUST00100,2,Discontent Dormant (High Negative Feedback)
+CUST00101,0,Cooling Regulars (At-Risk)
+CUST00102,1,Dormant Regulars (Disengaged/Neutral)
+CUST00103,0,Cooling Regulars (At-Risk)
+CUST00104,2,Discontent Dormant (High Negative Feedback)
+CUST00105,0,Cooling Regulars (At-Risk)
+CUST00106,3,VIP Loyal
+CUST00107,0,Cooling Regulars (At-Risk)
+CUST00108,2,Discontent Dormant (High Negative Feedback)
+CUST00109,1,Dormant Regulars (Disengaged/Neutral)
+CUST00110,3,VIP Loyal
+CUST00111,3,VIP Loyal
+CUST00112,2,Discontent Dormant (High Negative Feedback)
+CUST00113,0,Cooling Regulars (At-Risk)
+CUST00114,1,Dormant Regulars (Disengaged/Neutral)
+CUST00115,0,Cooling Regulars (At-Risk)
+CUST00116,1,Dormant Regulars (Disengaged/Neutral)
+CUST00117,1,Dormant Regulars (Disengaged/Neutral)
+CUST00118,2,Discontent Dormant (High Negative Feedback)
+CUST00119,1,Dormant Regulars (Disengaged/Neutral)
+CUST00120,1,Dormant Regulars (Disengaged/Neutral)
+CUST00121,3,VIP Loyal
+CUST00122,2,Discontent Dormant (High Negative Feedback)
+CUST00123,1,Dormant Regulars (Disengaged/Neutral)
+CUST00124,4,One-Timer / Lapsed Episodic
+CUST00125,3,VIP Loyal
+CUST00126,4,One-Timer / Lapsed Episodic
+CUST00127,1,Dormant Regulars (Disengaged/Neutral)
+CUST00128,2,Discontent Dormant (High Negative Feedback)
+CUST00129,3,VIP Loyal
+CUST00130,2,Discontent Dormant (High Negative Feedback)
+CUST00131,1,Dormant Regulars (Disengaged/Neutral)
+CUST00132,1,Dormant Regulars (Disengaged/Neutral)
+CUST00133,1,Dormant Regulars (Disengaged/Neutral)
+CUST00134,0,Cooling Regulars (At-Risk)
+CUST00135,0,Cooling Regulars (At-Risk)
+CUST00136,2,Discontent Dormant (High Negative Feedback)
+CUST00137,2,Discontent Dormant (High Negative Feedback)
+CUST00138,0,Cooling Regulars (At-Risk)
+CUST00139,3,VIP Loyal
+CUST00140,4,One-Timer / Lapsed Episodic
+CUST00141,1,Dormant Regulars (Disengaged/Neutral)
+CUST00142,0,Cooling Regulars (At-Risk)
+CUST00143,2,Discontent Dormant (High Negative Feedback)
+CUST00144,4,One-Timer / Lapsed Episodic
+CUST00145,3,VIP Loyal
+CUST00146,1,Dormant Regulars (Disengaged/Neutral)
+CUST00147,1,Dormant Regulars (Disengaged/Neutral)
+CUST00148,2,Discontent Dormant (High Negative Feedback)
+CUST00149,2,Discontent Dormant (High Negative Feedback)
+CUST00150,1,Dormant Regulars (Disengaged/Neutral)
+CUST00151,2,Discontent Dormant (High Negative Feedback)
+CUST00152,0,Cooling Regulars (At-Risk)
+CUST00153,2,Discontent Dormant (High Negative Feedback)
+CUST00154,1,Dormant Regulars (Disengaged/Neutral)
+CUST00155,4,One-Timer / Lapsed Episodic
+CUST00157,1,Dormant Regulars (Disengaged/Neutral)
+CUST00158,1,Dormant Regulars (Disengaged/Neutral)
+CUST00159,4,One-Timer / Lapsed Episodic
+CUST00160,2,Discontent Dormant (High Negative Feedback)
+CUST00161,3,VIP Loyal
+CUST00162,3,VIP Loyal
+CUST00163,1,Dormant Regulars (Disengaged/Neutral)
+CUST00164,0,Cooling Regulars (At-Risk)
+CUST00165,3,VIP Loyal
+CUST00166,1,Dormant Regulars (Disengaged/Neutral)
+CUST00167,1,Dormant Regulars (Disengaged/Neutral)
+CUST00168,1,Dormant Regulars (Disengaged/Neutral)
+CUST00169,2,Discontent Dormant (High Negative Feedback)
+CUST00170,1,Dormant Regulars (Disengaged/Neutral)
+CUST00171,3,VIP Loyal
+CUST00172,3,VIP Loyal
+CUST00173,0,Cooling Regulars (At-Risk)
+CUST00174,2,Discontent Dormant (High Negative Feedback)
+CUST00175,3,VIP Loyal
+CUST00176,3,VIP Loyal
+CUST00177,1,Dormant Regulars (Disengaged/Neutral)
+CUST00178,1,Dormant Regulars (Disengaged/Neutral)
+CUST00179,1,Dormant Regulars (Disengaged/Neutral)
+CUST00180,3,VIP Loyal
+CUST00181,3,VIP Loyal
+CUST00182,1,Dormant Regulars (Disengaged/Neutral)
+CUST00183,0,Cooling Regulars (At-Risk)
+CUST00184,3,VIP Loyal
+CUST00185,0,Cooling Regulars (At-Risk)
+CUST00186,2,Discontent Dormant (High Negative Feedback)
+CUST00187,3,VIP Loyal
+CUST00188,3,VIP Loyal
+CUST00189,2,Discontent Dormant (High Negative Feedback)
+CUST00190,1,Dormant Regulars (Disengaged/Neutral)
+CUST00191,1,Dormant Regulars (Disengaged/Neutral)
+CUST00192,4,One-Timer / Lapsed Episodic
+CUST00193,0,Cooling Regulars (At-Risk)
+CUST00194,2,Discontent Dormant (High Negative Feedback)
+CUST00195,1,Dormant Regulars (Disengaged/Neutral)
+CUST00196,3,VIP Loyal
+CUST00197,1,Dormant Regulars (Disengaged/Neutral)
+CUST00198,4,One-Timer / Lapsed Episodic
+CUST00199,2,Discontent Dormant (High Negative Feedback)
+CUST00200,1,Dormant Regulars (Disengaged/Neutral)
+CUST00201,2,Discontent Dormant (High Negative Feedback)
+CUST00202,0,Cooling Regulars (At-Risk)
+CUST00203,1,Dormant Regulars (Disengaged/Neutral)
+CUST00204,0,Cooling Regulars (At-Risk)
+CUST00205,3,VIP Loyal
+CUST00206,2,Discontent Dormant (High Negative Feedback)
+CUST00207,2,Discontent Dormant (High Negative Feedback)
+CUST00208,2,Discontent Dormant (High Negative Feedback)
+CUST00209,4,One-Timer / Lapsed Episodic
+CUST00210,0,Cooling Regulars (At-Risk)
+CUST00211,2,Discontent Dormant (High Negative Feedback)
+CUST00212,2,Discontent Dormant (High Negative Feedback)
+CUST00213,3,VIP Loyal
+CUST00214,0,Cooling Regulars (At-Risk)
+CUST00215,2,Discontent Dormant (High Negative Feedback)
+CUST00216,1,Dormant Regulars (Disengaged/Neutral)
+CUST00217,1,Dormant Regulars (Disengaged/Neutral)
+CUST00218,4,One-Timer / Lapsed Episodic
+CUST00219,0,Cooling Regulars (At-Risk)
+CUST00220,3,VIP Loyal
+CUST00221,1,Dormant Regulars (Disengaged/Neutral)
+CUST00222,0,Cooling Regulars (At-Risk)
+CUST00223,0,Cooling Regulars (At-Risk)
+CUST00224,0,Cooling Regulars (At-Risk)
+CUST00225,0,Cooling Regulars (At-Risk)
+CUST00226,1,Dormant Regulars (Disengaged/Neutral)
+CUST00227,3,VIP Loyal
+CUST00228,3,VIP Loyal
+CUST00229,4,One-Timer / Lapsed Episodic
+CUST00230,0,Cooling Regulars (At-Risk)
+CUST00231,1,Dormant Regulars (Disengaged/Neutral)
+CUST00232,1,Dormant Regulars (Disengaged/Neutral)
+CUST00233,0,Cooling Regulars (At-Risk)
+CUST00234,1,Dormant Regulars (Disengaged/Neutral)
+CUST00235,0,Cooling Regulars (At-Risk)
+CUST00236,2,Discontent Dormant (High Negative Feedback)
+CUST00237,0,Cooling Regulars (At-Risk)
+CUST00238,2,Discontent Dormant (High Negative Feedback)
+CUST00239,1,Dormant Regulars (Disengaged/Neutral)
+CUST00240,1,Dormant Regulars (Disengaged/Neutral)
+CUST00241,2,Discontent Dormant (High Negative Feedback)
+CUST00243,1,Dormant Regulars (Disengaged/Neutral)
+CUST00244,3,VIP Loyal
+CUST00245,1,Dormant Regulars (Disengaged/Neutral)
+CUST00246,1,Dormant Regulars (Disengaged/Neutral)
+CUST00247,0,Cooling Regulars (At-Risk)
+CUST00248,2,Discontent Dormant (High Negative Feedback)
+CUST00249,2,Discontent Dormant (High Negative Feedback)
+CUST00250,0,Cooling Regulars (At-Risk)
+CUST00251,0,Cooling Regulars (At-Risk)
+CUST00252,0,Cooling Regulars (At-Risk)
+CUST00253,1,Dormant Regulars (Disengaged/Neutral)
+CUST00254,0,Cooling Regulars (At-Risk)
+CUST00255,0,Cooling Regulars (At-Risk)
+CUST00256,1,Dormant Regulars (Disengaged/Neutral)
+CUST00257,4,One-Timer / Lapsed Episodic
+CUST00258,3,VIP Loyal
+CUST00259,2,Discontent Dormant (High Negative Feedback)
+CUST00260,1,Dormant Regulars (Disengaged/Neutral)
+CUST00261,2,Discontent Dormant (High Negative Feedback)
+CUST00262,0,Cooling Regulars (At-Risk)
+CUST00263,1,Dormant Regulars (Disengaged/Neutral)
+CUST00264,1,Dormant Regulars (Disengaged/Neutral)
+CUST00265,1,Dormant Regulars (Disengaged/Neutral)
+CUST00266,1,Dormant Regulars (Disengaged/Neutral)
+CUST00267,2,Discontent Dormant (High Negative Feedback)
+CUST00268,2,Discontent Dormant (High Negative Feedback)
+CUST00269,4,One-Timer / Lapsed Episodic
+CUST00270,0,Cooling Regulars (At-Risk)
+CUST00271,3,VIP Loyal
+CUST00272,1,Dormant Regulars (Disengaged/Neutral)
+CUST00273,0,Cooling Regulars (At-Risk)
+CUST00274,2,Discontent Dormant (High Negative Feedback)
+CUST00275,0,Cooling Regulars (At-Risk)
+CUST00276,0,Cooling Regulars (At-Risk)
+CUST00277,3,VIP Loyal
+CUST00278,1,Dormant Regulars (Disengaged/Neutral)
+CUST00279,1,Dormant Regulars (Disengaged/Neutral)
+CUST00280,0,Cooling Regulars (At-Risk)
+CUST00281,0,Cooling Regulars (At-Risk)
+CUST00282,1,Dormant Regulars (Disengaged/Neutral)
+CUST00283,0,Cooling Regulars (At-Risk)
+CUST00284,1,Dormant Regulars (Disengaged/Neutral)
+CUST00285,0,Cooling Regulars (At-Risk)
+CUST00286,0,Cooling Regulars (At-Risk)
+CUST00287,3,VIP Loyal
+CUST00288,4,One-Timer / Lapsed Episodic
+CUST00289,4,One-Timer / Lapsed Episodic
+CUST00290,1,Dormant Regulars (Disengaged/Neutral)
+CUST00291,1,Dormant Regulars (Disengaged/Neutral)
+CUST00293,1,Dormant Regulars (Disengaged/Neutral)
+CUST00294,3,VIP Loyal
+CUST00295,2,Discontent Dormant (High Negative Feedback)
+CUST00296,0,Cooling Regulars (At-Risk)
+CUST00297,1,Dormant Regulars (Disengaged/Neutral)
+CUST00298,3,VIP Loyal
+CUST00299,0,Cooling Regulars (At-Risk)
+CUST00300,2,Discontent Dormant (High Negative Feedback)
+CUST00302,2,Discontent Dormant (High Negative Feedback)
+CUST00303,2,Discontent Dormant (High Negative Feedback)
+CUST00304,0,Cooling Regulars (At-Risk)
+CUST00305,4,One-Timer / Lapsed Episodic
+CUST00306,1,Dormant Regulars (Disengaged/Neutral)
+CUST00307,1,Dormant Regulars (Disengaged/Neutral)
+CUST00308,3,VIP Loyal
+CUST00309,0,Cooling Regulars (At-Risk)
+CUST00310,3,VIP Loyal
+CUST00311,3,VIP Loyal
+CUST00312,0,Cooling Regulars (At-Risk)
+CUST00313,2,Discontent Dormant (High Negative Feedback)
+CUST00314,4,One-Timer / Lapsed Episodic
+CUST00315,4,One-Timer / Lapsed Episodic
+CUST00316,0,Cooling Regulars (At-Risk)
+CUST00317,1,Dormant Regulars (Disengaged/Neutral)
+CUST00318,0,Cooling Regulars (At-Risk)
+CUST00319,2,Discontent Dormant (High Negative Feedback)
+CUST00320,0,Cooling Regulars (At-Risk)
+CUST00321,1,Dormant Regulars (Disengaged/Neutral)
+CUST00322,0,Cooling Regulars (At-Risk)
+CUST00323,1,Dormant Regulars (Disengaged/Neutral)
+CUST00324,2,Discontent Dormant (High Negative Feedback)
+CUST00325,2,Discontent Dormant (High Negative Feedback)
+CUST00326,2,Discontent Dormant (High Negative Feedback)
+CUST00327,4,One-Timer / Lapsed Episodic
+CUST00328,1,Dormant Regulars (Disengaged/Neutral)
+CUST00329,2,Discontent Dormant (High Negative Feedback)
+CUST00330,2,Discontent Dormant (High Negative Feedback)
+CUST00331,3,VIP Loyal
+CUST00332,2,Discontent Dormant (High Negative Feedback)
+CUST00333,0,Cooling Regulars (At-Risk)
+CUST00334,0,Cooling Regulars (At-Risk)
+CUST00335,3,VIP Loyal
+CUST00336,1,Dormant Regulars (Disengaged/Neutral)
+CUST00337,2,Discontent Dormant (High Negative Feedback)
+CUST00338,3,VIP Loyal
+CUST00339,1,Dormant Regulars (Disengaged/Neutral)
+CUST00340,1,Dormant Regulars (Disengaged/Neutral)
+CUST00342,0,Cooling Regulars (At-Risk)
+CUST00343,3,VIP Loyal
+CUST00344,2,Discontent Dormant (High Negative Feedback)
+CUST00345,3,VIP Loyal
+CUST00346,1,Dormant Regulars (Disengaged/Neutral)
+CUST00347,1,Dormant Regulars (Disengaged/Neutral)
+CUST00348,3,VIP Loyal
+CUST00349,4,One-Timer / Lapsed Episodic
+CUST00350,3,VIP Loyal
+CUST00351,3,VIP Loyal
+CUST00352,3,VIP Loyal
+CUST00353,2,Discontent Dormant (High Negative Feedback)
+CUST00354,1,Dormant Regulars (Disengaged/Neutral)
+CUST00355,2,Discontent Dormant (High Negative Feedback)
+CUST00356,1,Dormant Regulars (Disengaged/Neutral)
+CUST00357,3,VIP Loyal
+CUST00358,3,VIP Loyal
+CUST00359,1,Dormant Regulars (Disengaged/Neutral)
+CUST00360,2,Discontent Dormant (High Negative Feedback)
+CUST00361,1,Dormant Regulars (Disengaged/Neutral)
+CUST00362,2,Discontent Dormant (High Negative Feedback)
+CUST00363,3,VIP Loyal
+CUST00364,1,Dormant Regulars (Disengaged/Neutral)
+CUST00365,3,VIP Loyal
+CUST00366,0,Cooling Regulars (At-Risk)
+CUST00367,1,Dormant Regulars (Disengaged/Neutral)
+CUST00368,2,Discontent Dormant (High Negative Feedback)
+CUST00369,1,Dormant Regulars (Disengaged/Neutral)
+CUST00370,2,Discontent Dormant (High Negative Feedback)
+CUST00371,2,Discontent Dormant (High Negative Feedback)
+CUST00372,1,Dormant Regulars (Disengaged/Neutral)
+CUST00373,4,One-Timer / Lapsed Episodic
+CUST00374,3,VIP Loyal
+CUST00375,4,One-Timer / Lapsed Episodic
+CUST00376,3,VIP Loyal
+CUST00377,0,Cooling Regulars (At-Risk)
+CUST00378,2,Discontent Dormant (High Negative Feedback)
+CUST00379,0,Cooling Regulars (At-Risk)
+CUST00380,0,Cooling Regulars (At-Risk)
+CUST00381,4,One-Timer / Lapsed Episodic
+CUST00382,1,Dormant Regulars (Disengaged/Neutral)
+CUST00383,3,VIP Loyal
+CUST00384,0,Cooling Regulars (At-Risk)
+CUST00385,1,Dormant Regulars (Disengaged/Neutral)
+CUST00387,0,Cooling Regulars (At-Risk)
+CUST00388,0,Cooling Regulars (At-Risk)
+CUST00389,1,Dormant Regulars (Disengaged/Neutral)
+CUST00390,2,Discontent Dormant (High Negative Feedback)
+CUST00391,1,Dormant Regulars (Disengaged/Neutral)
+CUST00392,1,Dormant Regulars (Disengaged/Neutral)
+CUST00393,3,VIP Loyal
+CUST00394,1,Dormant Regulars (Disengaged/Neutral)
+CUST00395,4,One-Timer / Lapsed Episodic
+CUST00396,0,Cooling Regulars (At-Risk)
+CUST00397,3,VIP Loyal
+CUST00398,2,Discontent Dormant (High Negative Feedback)
+CUST00399,3,VIP Loyal
+CUST00400,2,Discontent Dormant (High Negative Feedback)
+CUST00401,0,Cooling Regulars (At-Risk)
+CUST00402,1,Dormant Regulars (Disengaged/Neutral)
+CUST00403,0,Cooling Regulars (At-Risk)
+CUST00404,1,Dormant Regulars (Disengaged/Neutral)
+CUST00405,3,VIP Loyal
+CUST00406,4,One-Timer / Lapsed Episodic
+CUST00407,1,Dormant Regulars (Disengaged/Neutral)
+CUST00408,1,Dormant Regulars (Disengaged/Neutral)
+CUST00409,3,VIP Loyal
+CUST00410,1,Dormant Regulars (Disengaged/Neutral)
+CUST00411,3,VIP Loyal
+CUST00412,1,Dormant Regulars (Disengaged/Neutral)
+CUST00413,4,One-Timer / Lapsed Episodic
+CUST00414,0,Cooling Regulars (At-Risk)
+CUST00415,0,Cooling Regulars (At-Risk)
+CUST00416,2,Discontent Dormant (High Negative Feedback)
+CUST00417,2,Discontent Dormant (High Negative Feedback)
+CUST00418,4,One-Timer / Lapsed Episodic
+CUST00419,0,Cooling Regulars (At-Risk)
+CUST00420,3,VIP Loyal
+CUST00421,0,Cooling Regulars (At-Risk)
+CUST00422,2,Discontent Dormant (High Negative Feedback)
+CUST00423,1,Dormant Regulars (Disengaged/Neutral)
+CUST00424,1,Dormant Regulars (Disengaged/Neutral)
+CUST00425,0,Cooling Regulars (At-Risk)
+CUST00426,1,Dormant Regulars (Disengaged/Neutral)
+CUST00427,4,One-Timer / Lapsed Episodic
+CUST00428,0,Cooling Regulars (At-Risk)
+CUST00429,1,Dormant Regulars (Disengaged/Neutral)
+CUST00430,1,Dormant Regulars (Disengaged/Neutral)
+CUST00431,2,Discontent Dormant (High Negative Feedback)
+CUST00433,2,Discontent Dormant (High Negative Feedback)
+CUST00434,1,Dormant Regulars (Disengaged/Neutral)
+CUST00435,0,Cooling Regulars (At-Risk)
+CUST00437,1,Dormant Regulars (Disengaged/Neutral)
+CUST00438,2,Discontent Dormant (High Negative Feedback)
+CUST00439,2,Discontent Dormant (High Negative Feedback)
+CUST00440,0,Cooling Regulars (At-Risk)
+CUST00441,4,One-Timer / Lapsed Episodic
+CUST00442,2,Discontent Dormant (High Negative Feedback)
+CUST00443,2,Discontent Dormant (High Negative Feedback)
+CUST00444,1,Dormant Regulars (Disengaged/Neutral)
+CUST00445,3,VIP Loyal
+CUST00446,1,Dormant Regulars (Disengaged/Neutral)
+CUST00447,1,Dormant Regulars (Disengaged/Neutral)
+CUST00448,0,Cooling Regulars (At-Risk)
+CUST00449,4,One-Timer / Lapsed Episodic
+CUST00450,0,Cooling Regulars (At-Risk)
+CUST00451,0,Cooling Regulars (At-Risk)
+CUST00452,0,Cooling Regulars (At-Risk)
+CUST00453,3,VIP Loyal
+CUST00454,0,Cooling Regulars (At-Risk)
+CUST00455,4,One-Timer / Lapsed Episodic
+CUST00456,3,VIP Loyal
+CUST00457,0,Cooling Regulars (At-Risk)
+CUST00458,1,Dormant Regulars (Disengaged/Neutral)
+CUST00459,1,Dormant Regulars (Disengaged/Neutral)
+CUST00460,4,One-Timer / Lapsed Episodic
+CUST00461,0,Cooling Regulars (At-Risk)
+CUST00462,2,Discontent Dormant (High Negative Feedback)
+CUST00463,3,VIP Loyal
+CUST00464,0,Cooling Regulars (At-Risk)
+CUST00465,3,VIP Loyal
+CUST00466,2,Discontent Dormant (High Negative Feedback)
+CUST00468,0,Cooling Regulars (At-Risk)
+CUST00469,2,Discontent Dormant (High Negative Feedback)
+CUST00470,0,Cooling Regulars (At-Risk)
+CUST00471,3,VIP Loyal
+CUST00472,1,Dormant Regulars (Disengaged/Neutral)
+CUST00473,2,Discontent Dormant (High Negative Feedback)
+CUST00474,1,Dormant Regulars (Disengaged/Neutral)
+CUST00475,0,Cooling Regulars (At-Risk)
+CUST00476,0,Cooling Regulars (At-Risk)
+CUST00477,2,Discontent Dormant (High Negative Feedback)
+CUST00478,3,VIP Loyal
+CUST00479,1,Dormant Regulars (Disengaged/Neutral)
+CUST00480,1,Dormant Regulars (Disengaged/Neutral)
+CUST00481,1,Dormant Regulars (Disengaged/Neutral)
+CUST00482,0,Cooling Regulars (At-Risk)
+CUST00483,1,Dormant Regulars (Disengaged/Neutral)
+CUST00484,1,Dormant Regulars (Disengaged/Neutral)
+CUST00485,0,Cooling Regulars (At-Risk)
+CUST00486,1,Dormant Regulars (Disengaged/Neutral)
+CUST00487,3,VIP Loyal
+CUST00488,3,VIP Loyal
+CUST00489,1,Dormant Regulars (Disengaged/Neutral)
+CUST00490,1,Dormant Regulars (Disengaged/Neutral)
+CUST00491,0,Cooling Regulars (At-Risk)
+CUST00492,2,Discontent Dormant (High Negative Feedback)
+CUST00493,1,Dormant Regulars (Disengaged/Neutral)
+CUST00494,1,Dormant Regulars (Disengaged/Neutral)
+CUST00495,0,Cooling Regulars (At-Risk)
+CUST00496,2,Discontent Dormant (High Negative Feedback)
+CUST00497,4,One-Timer / Lapsed Episodic
+CUST00498,3,VIP Loyal
+CUST00499,0,Cooling Regulars (At-Risk)
+CUST00500,2,Discontent Dormant (High Negative Feedback)
+CUST00501,4,One-Timer / Lapsed Episodic
+CUST00502,0,Cooling Regulars (At-Risk)
+CUST00503,2,Discontent Dormant (High Negative Feedback)
+CUST00504,2,Discontent Dormant (High Negative Feedback)
+CUST00505,4,One-Timer / Lapsed Episodic
+CUST00506,0,Cooling Regulars (At-Risk)
+CUST00507,1,Dormant Regulars (Disengaged/Neutral)
+CUST00508,4,One-Timer / Lapsed Episodic
+CUST00509,4,One-Timer / Lapsed Episodic
+CUST00510,2,Discontent Dormant (High Negative Feedback)
+CUST00511,2,Discontent Dormant (High Negative Feedback)
+CUST00512,3,VIP Loyal
+CUST00513,0,Cooling Regulars (At-Risk)
+CUST00514,2,Discontent Dormant (High Negative Feedback)
+CUST00515,3,VIP Loyal
+CUST00516,0,Cooling Regulars (At-Risk)
+CUST00517,0,Cooling Regulars (At-Risk)
+CUST00518,2,Discontent Dormant (High Negative Feedback)
+CUST00519,0,Cooling Regulars (At-Risk)
+CUST00520,2,Discontent Dormant (High Negative Feedback)
+CUST00521,1,Dormant Regulars (Disengaged/Neutral)
+CUST00522,4,One-Timer / Lapsed Episodic
+CUST00523,2,Discontent Dormant (High Negative Feedback)
+CUST00524,2,Discontent Dormant (High Negative Feedback)
+CUST00525,1,Dormant Regulars (Disengaged/Neutral)
+CUST00526,0,Cooling Regulars (At-Risk)
+CUST00527,1,Dormant Regulars (Disengaged/Neutral)
+CUST00528,1,Dormant Regulars (Disengaged/Neutral)
+CUST00529,3,VIP Loyal
+CUST00530,1,Dormant Regulars (Disengaged/Neutral)
+CUST00531,0,Cooling Regulars (At-Risk)
+CUST00532,2,Discontent Dormant (High Negative Feedback)
+CUST00533,4,One-Timer / Lapsed Episodic
+CUST00534,3,VIP Loyal
+CUST00535,1,Dormant Regulars (Disengaged/Neutral)
+CUST00536,0,Cooling Regulars (At-Risk)
+CUST00537,2,Discontent Dormant (High Negative Feedback)
+CUST00538,2,Discontent Dormant (High Negative Feedback)
+CUST00539,3,VIP Loyal
+CUST00540,3,VIP Loyal
+CUST00541,4,One-Timer / Lapsed Episodic
+CUST00542,1,Dormant Regulars (Disengaged/Neutral)
+CUST00543,2,Discontent Dormant (High Negative Feedback)
+CUST00544,1,Dormant Regulars (Disengaged/Neutral)
+CUST00545,2,Discontent Dormant (High Negative Feedback)
+CUST00546,1,Dormant Regulars (Disengaged/Neutral)
+CUST00547,0,Cooling Regulars (At-Risk)
+CUST00548,2,Discontent Dormant (High Negative Feedback)
+CUST00549,1,Dormant Regulars (Disengaged/Neutral)
+CUST00550,1,Dormant Regulars (Disengaged/Neutral)
+CUST00551,3,VIP Loyal
+CUST00552,2,Discontent Dormant (High Negative Feedback)
+CUST00553,1,Dormant Regulars (Disengaged/Neutral)
+CUST00554,0,Cooling Regulars (At-Risk)
+CUST00555,1,Dormant Regulars (Disengaged/Neutral)
+CUST00556,4,One-Timer / Lapsed Episodic
+CUST00557,2,Discontent Dormant (High Negative Feedback)
+CUST00558,4,One-Timer / Lapsed Episodic
+CUST00559,1,Dormant Regulars (Disengaged/Neutral)
+CUST00560,1,Dormant Regulars (Disengaged/Neutral)
+CUST00561,0,Cooling Regulars (At-Risk)
+CUST00562,2,Discontent Dormant (High Negative Feedback)
+CUST00563,0,Cooling Regulars (At-Risk)
+CUST00564,3,VIP Loyal
+CUST00565,1,Dormant Regulars (Disengaged/Neutral)
+CUST00566,1,Dormant Regulars (Disengaged/Neutral)
+CUST00567,0,Cooling Regulars (At-Risk)
+CUST00568,3,VIP Loyal
+CUST00569,1,Dormant Regulars (Disengaged/Neutral)
+CUST00570,1,Dormant Regulars (Disengaged/Neutral)
+CUST00571,1,Dormant Regulars (Disengaged/Neutral)
+CUST00572,2,Discontent Dormant (High Negative Feedback)
+CUST00573,2,Discontent Dormant (High Negative Feedback)
+CUST00574,2,Discontent Dormant (High Negative Feedback)
+CUST00575,1,Dormant Regulars (Disengaged/Neutral)
+CUST00576,3,VIP Loyal
+CUST00577,0,Cooling Regulars (At-Risk)
+CUST00578,2,Discontent Dormant (High Negative Feedback)
+CUST00579,1,Dormant Regulars (Disengaged/Neutral)
+CUST00580,2,Discontent Dormant (High Negative Feedback)
+CUST00581,1,Dormant Regulars (Disengaged/Neutral)
+CUST00582,3,VIP Loyal
+CUST00583,0,Cooling Regulars (At-Risk)
+CUST00584,0,Cooling Regulars (At-Risk)
+CUST00585,0,Cooling Regulars (At-Risk)
+CUST00586,0,Cooling Regulars (At-Risk)
+CUST00587,3,VIP Loyal
+CUST00588,3,VIP Loyal
+CUST00589,1,Dormant Regulars (Disengaged/Neutral)
+CUST00590,0,Cooling Regulars (At-Risk)
+CUST00591,2,Discontent Dormant (High Negative Feedback)
+CUST00592,2,Discontent Dormant (High Negative Feedback)
+CUST00593,2,Discontent Dormant (High Negative Feedback)
+CUST00594,3,VIP Loyal
+CUST00595,4,One-Timer / Lapsed Episodic
+CUST00596,0,Cooling Regulars (At-Risk)
+CUST00597,1,Dormant Regulars (Disengaged/Neutral)
+CUST00598,2,Discontent Dormant (High Negative Feedback)
+CUST00599,0,Cooling Regulars (At-Risk)
+CUST00600,2,Discontent Dormant (High Negative Feedback)
+CUST00601,1,Dormant Regulars (Disengaged/Neutral)
+CUST00602,2,Discontent Dormant (High Negative Feedback)
+CUST00603,1,Dormant Regulars (Disengaged/Neutral)
+CUST00604,2,Discontent Dormant (High Negative Feedback)
+CUST00605,3,VIP Loyal
+CUST00606,2,Discontent Dormant (High Negative Feedback)
+CUST00607,1,Dormant Regulars (Disengaged/Neutral)
+CUST00608,2,Discontent Dormant (High Negative Feedback)
+CUST00610,1,Dormant Regulars (Disengaged/Neutral)
+CUST00611,1,Dormant Regulars (Disengaged/Neutral)
+CUST00612,2,Discontent Dormant (High Negative Feedback)
+CUST00613,4,One-Timer / Lapsed Episodic
+CUST00614,1,Dormant Regulars (Disengaged/Neutral)
+CUST00615,0,Cooling Regulars (At-Risk)
+CUST00616,0,Cooling Regulars (At-Risk)
+CUST00617,1,Dormant Regulars (Disengaged/Neutral)
+CUST00618,0,Cooling Regulars (At-Risk)
+CUST00619,0,Cooling Regulars (At-Risk)
+CUST00620,3,VIP Loyal
+CUST00621,2,Discontent Dormant (High Negative Feedback)
+CUST00622,2,Discontent Dormant (High Negative Feedback)
+CUST00623,0,Cooling Regulars (At-Risk)
+CUST00624,1,Dormant Regulars (Disengaged/Neutral)
+CUST00625,1,Dormant Regulars (Disengaged/Neutral)
+CUST00626,2,Discontent Dormant (High Negative Feedback)
+CUST00627,0,Cooling Regulars (At-Risk)
+CUST00628,0,Cooling Regulars (At-Risk)
+CUST00629,0,Cooling Regulars (At-Risk)
+CUST00630,2,Discontent Dormant (High Negative Feedback)
+CUST00631,1,Dormant Regulars (Disengaged/Neutral)
+CUST00632,1,Dormant Regulars (Disengaged/Neutral)
+CUST00633,2,Discontent Dormant (High Negative Feedback)
+CUST00634,2,Discontent Dormant (High Negative Feedback)
+CUST00635,4,One-Timer / Lapsed Episodic
+CUST00636,2,Discontent Dormant (High Negative Feedback)
+CUST00637,2,Discontent Dormant (High Negative Feedback)
+CUST00638,1,Dormant Regulars (Disengaged/Neutral)
+CUST00639,0,Cooling Regulars (At-Risk)
+CUST00640,3,VIP Loyal
+CUST00641,4,One-Timer / Lapsed Episodic
+CUST00642,1,Dormant Regulars (Disengaged/Neutral)
+CUST00643,1,Dormant Regulars (Disengaged/Neutral)
+CUST00644,1,Dormant Regulars (Disengaged/Neutral)
+CUST00645,1,Dormant Regulars (Disengaged/Neutral)
+CUST00646,3,VIP Loyal
+CUST00647,3,VIP Loyal
+CUST00648,0,Cooling Regulars (At-Risk)
+CUST00649,3,VIP Loyal
+CUST00650,2,Discontent Dormant (High Negative Feedback)
+CUST00651,0,Cooling Regulars (At-Risk)
+CUST00652,2,Discontent Dormant (High Negative Feedback)
+CUST00653,3,VIP Loyal
+CUST00654,2,Discontent Dormant (High Negative Feedback)
+CUST00655,1,Dormant Regulars (Disengaged/Neutral)
+CUST00656,1,Dormant Regulars (Disengaged/Neutral)
+CUST00657,0,Cooling Regulars (At-Risk)
+CUST00658,3,VIP Loyal
+CUST00659,0,Cooling Regulars (At-Risk)
+CUST00660,2,Discontent Dormant (High Negative Feedback)
+CUST00661,0,Cooling Regulars (At-Risk)
+CUST00662,1,Dormant Regulars (Disengaged/Neutral)
+CUST00663,2,Discontent Dormant (High Negative Feedback)
+CUST00664,4,One-Timer / Lapsed Episodic
+CUST00665,0,Cooling Regulars (At-Risk)
+CUST00666,1,Dormant Regulars (Disengaged/Neutral)
+CUST00667,2,Discontent Dormant (High Negative Feedback)
+CUST00668,0,Cooling Regulars (At-Risk)
+CUST00669,4,One-Timer / Lapsed Episodic
+CUST00670,1,Dormant Regulars (Disengaged/Neutral)
+CUST00671,3,VIP Loyal
+CUST00672,2,Discontent Dormant (High Negative Feedback)
+CUST00673,0,Cooling Regulars (At-Risk)
+CUST00674,1,Dormant Regulars (Disengaged/Neutral)
+CUST00675,0,Cooling Regulars (At-Risk)
+CUST00676,0,Cooling Regulars (At-Risk)
+CUST00677,0,Cooling Regulars (At-Risk)
+CUST00678,2,Discontent Dormant (High Negative Feedback)
+CUST00679,2,Discontent Dormant (High Negative Feedback)
+CUST00680,0,Cooling Regulars (At-Risk)
+CUST00681,1,Dormant Regulars (Disengaged/Neutral)
+CUST00682,3,VIP Loyal
+CUST00683,2,Discontent Dormant (High Negative Feedback)
+CUST00684,0,Cooling Regulars (At-Risk)
+CUST00685,2,Discontent Dormant (High Negative Feedback)
+CUST00686,3,VIP Loyal
+CUST00687,3,VIP Loyal
+CUST00688,2,Discontent Dormant (High Negative Feedback)
+CUST00689,4,One-Timer / Lapsed Episodic
+CUST00690,0,Cooling Regulars (At-Risk)
+CUST00691,1,Dormant Regulars (Disengaged/Neutral)
+CUST00692,2,Discontent Dormant (High Negative Feedback)
+CUST00693,3,VIP Loyal
+CUST00695,0,Cooling Regulars (At-Risk)
+CUST00696,2,Discontent Dormant (High Negative Feedback)
+CUST00697,2,Discontent Dormant (High Negative Feedback)
+CUST00698,2,Discontent Dormant (High Negative Feedback)
+CUST00699,0,Cooling Regulars (At-Risk)
+CUST00700,3,VIP Loyal
+CUST00701,1,Dormant Regulars (Disengaged/Neutral)
+CUST00702,2,Discontent Dormant (High Negative Feedback)
+CUST00703,1,Dormant Regulars (Disengaged/Neutral)
+CUST00704,2,Discontent Dormant (High Negative Feedback)
+CUST00705,3,VIP Loyal
+CUST00706,4,One-Timer / Lapsed Episodic
+CUST00707,0,Cooling Regulars (At-Risk)
+CUST00708,3,VIP Loyal
+CUST00709,1,Dormant Regulars (Disengaged/Neutral)
+CUST00710,4,One-Timer / Lapsed Episodic
+CUST00711,1,Dormant Regulars (Disengaged/Neutral)
+CUST00712,2,Discontent Dormant (High Negative Feedback)
+CUST00713,0,Cooling Regulars (At-Risk)
+CUST00714,3,VIP Loyal
+CUST00715,3,VIP Loyal
+CUST00716,1,Dormant Regulars (Disengaged/Neutral)
+CUST00717,2,Discontent Dormant (High Negative Feedback)
+CUST00718,2,Discontent Dormant (High Negative Feedback)
+CUST00719,1,Dormant Regulars (Disengaged/Neutral)
+CUST00720,2,Discontent Dormant (High Negative Feedback)
+CUST00721,2,Discontent Dormant (High Negative Feedback)
+CUST00722,2,Discontent Dormant (High Negative Feedback)
+CUST00723,2,Discontent Dormant (High Negative Feedback)
+CUST00724,1,Dormant Regulars (Disengaged/Neutral)
+CUST00725,4,One-Timer / Lapsed Episodic
+CUST00726,1,Dormant Regulars (Disengaged/Neutral)
+CUST00727,1,Dormant Regulars (Disengaged/Neutral)
+CUST00728,4,One-Timer / Lapsed Episodic
+CUST00729,2,Discontent Dormant (High Negative Feedback)
+CUST00730,2,Discontent Dormant (High Negative Feedback)
+CUST00731,2,Discontent Dormant (High Negative Feedback)
+CUST00732,1,Dormant Regulars (Disengaged/Neutral)
+CUST00733,0,Cooling Regulars (At-Risk)
+CUST00734,3,VIP Loyal
+CUST00735,2,Discontent Dormant (High Negative Feedback)
+CUST00736,2,Discontent Dormant (High Negative Feedback)
+CUST00737,0,Cooling Regulars (At-Risk)
+CUST00738,0,Cooling Regulars (At-Risk)
+CUST00739,0,Cooling Regulars (At-Risk)
+CUST00740,3,VIP Loyal
+CUST00741,0,Cooling Regulars (At-Risk)
+CUST00742,2,Discontent Dormant (High Negative Feedback)
+CUST00743,2,Discontent Dormant (High Negative Feedback)
+CUST00744,4,One-Timer / Lapsed Episodic
+CUST00745,1,Dormant Regulars (Disengaged/Neutral)
+CUST00746,2,Discontent Dormant (High Negative Feedback)
+CUST00747,1,Dormant Regulars (Disengaged/Neutral)
+CUST00748,3,VIP Loyal
+CUST00749,1,Dormant Regulars (Disengaged/Neutral)
+CUST00750,4,One-Timer / Lapsed Episodic
+CUST00751,2,Discontent Dormant (High Negative Feedback)
+CUST00752,0,Cooling Regulars (At-Risk)
+CUST00753,2,Discontent Dormant (High Negative Feedback)
+CUST00754,0,Cooling Regulars (At-Risk)
+CUST00755,1,Dormant Regulars (Disengaged/Neutral)
+CUST00756,2,Discontent Dormant (High Negative Feedback)
+CUST00757,3,VIP Loyal
+CUST00758,0,Cooling Regulars (At-Risk)
+CUST00759,1,Dormant Regulars (Disengaged/Neutral)
+CUST00760,4,One-Timer / Lapsed Episodic
+CUST00761,3,VIP Loyal
+CUST00762,1,Dormant Regulars (Disengaged/Neutral)
+CUST00763,1,Dormant Regulars (Disengaged/Neutral)
+CUST00764,0,Cooling Regulars (At-Risk)
+CUST00766,0,Cooling Regulars (At-Risk)
+CUST00767,2,Discontent Dormant (High Negative Feedback)
+CUST00768,3,VIP Loyal
+CUST00769,4,One-Timer / Lapsed Episodic
+CUST00770,1,Dormant Regulars (Disengaged/Neutral)
+CUST00771,1,Dormant Regulars (Disengaged/Neutral)
+CUST00772,1,Dormant Regulars (Disengaged/Neutral)
+CUST00773,1,Dormant Regulars (Disengaged/Neutral)
+CUST00774,1,Dormant Regulars (Disengaged/Neutral)
+CUST00775,1,Dormant Regulars (Disengaged/Neutral)
+CUST00776,3,VIP Loyal
+CUST00777,4,One-Timer / Lapsed Episodic
+CUST00778,0,Cooling Regulars (At-Risk)
+CUST00779,2,Discontent Dormant (High Negative Feedback)
+CUST00780,3,VIP Loyal
+CUST00781,3,VIP Loyal
+CUST00782,2,Discontent Dormant (High Negative Feedback)
+CUST00783,1,Dormant Regulars (Disengaged/Neutral)
+CUST00784,2,Discontent Dormant (High Negative Feedback)
+CUST00785,1,Dormant Regulars (Disengaged/Neutral)
+CUST00786,2,Discontent Dormant (High Negative Feedback)
+CUST00787,2,Discontent Dormant (High Negative Feedback)
+CUST00788,0,Cooling Regulars (At-Risk)
+CUST00789,1,Dormant Regulars (Disengaged/Neutral)
+CUST00790,3,VIP Loyal
+CUST00791,3,VIP Loyal
+CUST00792,0,Cooling Regulars (At-Risk)
+CUST00793,0,Cooling Regulars (At-Risk)
+CUST00794,3,VIP Loyal
+CUST00795,1,Dormant Regulars (Disengaged/Neutral)
+CUST00796,0,Cooling Regulars (At-Risk)
+CUST00797,2,Discontent Dormant (High Negative Feedback)
+CUST00798,0,Cooling Regulars (At-Risk)
+CUST00799,0,Cooling Regulars (At-Risk)
+CUST00800,1,Dormant Regulars (Disengaged/Neutral)
+CUST00801,1,Dormant Regulars (Disengaged/Neutral)
+CUST00802,2,Discontent Dormant (High Negative Feedback)
+CUST00803,0,Cooling Regulars (At-Risk)
+CUST00804,0,Cooling Regulars (At-Risk)
+CUST00805,4,One-Timer / Lapsed Episodic
+CUST00806,2,Discontent Dormant (High Negative Feedback)
+CUST00807,3,VIP Loyal
+CUST00809,0,Cooling Regulars (At-Risk)
+CUST00810,2,Discontent Dormant (High Negative Feedback)
+CUST00811,2,Discontent Dormant (High Negative Feedback)
+CUST00812,1,Dormant Regulars (Disengaged/Neutral)
+CUST00813,3,VIP Loyal
+CUST00814,1,Dormant Regulars (Disengaged/Neutral)
+CUST00815,0,Cooling Regulars (At-Risk)
+CUST00816,4,One-Timer / Lapsed Episodic
+CUST00817,2,Discontent Dormant (High Negative Feedback)
+CUST00819,1,Dormant Regulars (Disengaged/Neutral)
+CUST00820,3,VIP Loyal
+CUST00821,2,Discontent Dormant (High Negative Feedback)
+CUST00822,1,Dormant Regulars (Disengaged/Neutral)
+CUST00823,1,Dormant Regulars (Disengaged/Neutral)
+CUST00824,1,Dormant Regulars (Disengaged/Neutral)
+CUST00825,2,Discontent Dormant (High Negative Feedback)
+CUST00826,1,Dormant Regulars (Disengaged/Neutral)
+CUST00827,0,Cooling Regulars (At-Risk)
+CUST00828,1,Dormant Regulars (Disengaged/Neutral)
+CUST00829,1,Dormant Regulars (Disengaged/Neutral)
+CUST00830,0,Cooling Regulars (At-Risk)
+CUST00831,1,Dormant Regulars (Disengaged/Neutral)
+CUST00832,1,Dormant Regulars (Disengaged/Neutral)
+CUST00833,0,Cooling Regulars (At-Risk)
+CUST00834,1,Dormant Regulars (Disengaged/Neutral)
+CUST00835,0,Cooling Regulars (At-Risk)
+CUST00836,1,Dormant Regulars (Disengaged/Neutral)
+CUST00838,0,Cooling Regulars (At-Risk)
+CUST00839,4,One-Timer / Lapsed Episodic
+CUST00840,4,One-Timer / Lapsed Episodic
+CUST00841,1,Dormant Regulars (Disengaged/Neutral)
+CUST00842,1,Dormant Regulars (Disengaged/Neutral)
+CUST00843,2,Discontent Dormant (High Negative Feedback)
+CUST00844,3,VIP Loyal
+CUST00845,0,Cooling Regulars (At-Risk)
+CUST00846,3,VIP Loyal
+CUST00847,3,VIP Loyal
+CUST00848,2,Discontent Dormant (High Negative Feedback)
+CUST00849,2,Discontent Dormant (High Negative Feedback)
+CUST00850,3,VIP Loyal
+CUST00851,2,Discontent Dormant (High Negative Feedback)
+CUST00852,4,One-Timer / Lapsed Episodic
+CUST00853,2,Discontent Dormant (High Negative Feedback)
+CUST00854,0,Cooling Regulars (At-Risk)
+CUST00855,0,Cooling Regulars (At-Risk)
+CUST00856,4,One-Timer / Lapsed Episodic
+CUST00857,3,VIP Loyal
+CUST00858,1,Dormant Regulars (Disengaged/Neutral)
+CUST00859,3,VIP Loyal
+CUST00860,2,Discontent Dormant (High Negative Feedback)
+CUST00861,0,Cooling Regulars (At-Risk)
+CUST00862,0,Cooling Regulars (At-Risk)
+CUST00863,3,VIP Loyal
+CUST00864,1,Dormant Regulars (Disengaged/Neutral)
+CUST00865,1,Dormant Regulars (Disengaged/Neutral)
+CUST00866,2,Discontent Dormant (High Negative Feedback)
+CUST00867,4,One-Timer / Lapsed Episodic
+CUST00868,3,VIP Loyal
+CUST00869,3,VIP Loyal
+CUST00870,2,Discontent Dormant (High Negative Feedback)
+CUST00871,2,Discontent Dormant (High Negative Feedback)
+CUST00872,0,Cooling Regulars (At-Risk)
+CUST00874,2,Discontent Dormant (High Negative Feedback)
+CUST00875,2,Discontent Dormant (High Negative Feedback)
+CUST00876,2,Discontent Dormant (High Negative Feedback)
+CUST00877,0,Cooling Regulars (At-Risk)
+CUST00878,0,Cooling Regulars (At-Risk)
+CUST00879,1,Dormant Regulars (Disengaged/Neutral)
+CUST00880,4,One-Timer / Lapsed Episodic
+CUST00881,4,One-Timer / Lapsed Episodic
+CUST00882,4,One-Timer / Lapsed Episodic
+CUST00883,2,Discontent Dormant (High Negative Feedback)
+CUST00884,2,Discontent Dormant (High Negative Feedback)
+CUST00885,2,Discontent Dormant (High Negative Feedback)
+CUST00886,2,Discontent Dormant (High Negative Feedback)
+CUST00887,4,One-Timer / Lapsed Episodic
+CUST00888,1,Dormant Regulars (Disengaged/Neutral)
+CUST00889,2,Discontent Dormant (High Negative Feedback)
+CUST00890,2,Discontent Dormant (High Negative Feedback)
+CUST00891,4,One-Timer / Lapsed Episodic
+CUST00892,2,Discontent Dormant (High Negative Feedback)
+CUST00893,1,Dormant Regulars (Disengaged/Neutral)
+CUST00894,0,Cooling Regulars (At-Risk)
+CUST00895,1,Dormant Regulars (Disengaged/Neutral)
+CUST00896,0,Cooling Regulars (At-Risk)
+CUST00897,0,Cooling Regulars (At-Risk)
+CUST00898,1,Dormant Regulars (Disengaged/Neutral)
+CUST00899,4,One-Timer / Lapsed Episodic
+CUST00900,1,Dormant Regulars (Disengaged/Neutral)
+CUST00901,1,Dormant Regulars (Disengaged/Neutral)
+CUST00902,4,One-Timer / Lapsed Episodic
+CUST00903,1,Dormant Regulars (Disengaged/Neutral)
+CUST00904,3,VIP Loyal
+CUST00905,2,Discontent Dormant (High Negative Feedback)
+CUST00906,1,Dormant Regulars (Disengaged/Neutral)
+CUST00907,1,Dormant Regulars (Disengaged/Neutral)
+CUST00908,1,Dormant Regulars (Disengaged/Neutral)
+CUST00909,0,Cooling Regulars (At-Risk)
+CUST00910,0,Cooling Regulars (At-Risk)
+CUST00911,1,Dormant Regulars (Disengaged/Neutral)
+CUST00912,1,Dormant Regulars (Disengaged/Neutral)
+CUST00913,0,Cooling Regulars (At-Risk)
+CUST00914,2,Discontent Dormant (High Negative Feedback)
+CUST00915,1,Dormant Regulars (Disengaged/Neutral)
+CUST00916,0,Cooling Regulars (At-Risk)
+CUST00917,1,Dormant Regulars (Disengaged/Neutral)
+CUST00918,1,Dormant Regulars (Disengaged/Neutral)
+CUST00919,1,Dormant Regulars (Disengaged/Neutral)
+CUST00920,2,Discontent Dormant (High Negative Feedback)
+CUST00921,4,One-Timer / Lapsed Episodic
+CUST00922,2,Discontent Dormant (High Negative Feedback)
+CUST00923,0,Cooling Regulars (At-Risk)
+CUST00924,1,Dormant Regulars (Disengaged/Neutral)
+CUST00925,0,Cooling Regulars (At-Risk)
+CUST00926,2,Discontent Dormant (High Negative Feedback)
+CUST00927,3,VIP Loyal
+CUST00928,1,Dormant Regulars (Disengaged/Neutral)
+CUST00929,4,One-Timer / Lapsed Episodic
+CUST00930,3,VIP Loyal
+CUST00931,3,VIP Loyal
+CUST00932,1,Dormant Regulars (Disengaged/Neutral)
+CUST00933,0,Cooling Regulars (At-Risk)
+CUST00934,0,Cooling Regulars (At-Risk)
+CUST00935,1,Dormant Regulars (Disengaged/Neutral)
+CUST00936,0,Cooling Regulars (At-Risk)
+CUST00937,1,Dormant Regulars (Disengaged/Neutral)
+CUST00938,2,Discontent Dormant (High Negative Feedback)
+CUST00939,2,Discontent Dormant (High Negative Feedback)
+CUST00940,0,Cooling Regulars (At-Risk)
+CUST00941,1,Dormant Regulars (Disengaged/Neutral)
+CUST00942,0,Cooling Regulars (At-Risk)
+CUST00943,2,Discontent Dormant (High Negative Feedback)
+CUST00944,4,One-Timer / Lapsed Episodic
+CUST00945,3,VIP Loyal
+CUST00947,0,Cooling Regulars (At-Risk)
+CUST00948,0,Cooling Regulars (At-Risk)
+CUST00949,2,Discontent Dormant (High Negative Feedback)
+CUST00950,2,Discontent Dormant (High Negative Feedback)
+CUST00951,2,Discontent Dormant (High Negative Feedback)
+CUST00952,0,Cooling Regulars (At-Risk)
+CUST00953,2,Discontent Dormant (High Negative Feedback)
+CUST00954,1,Dormant Regulars (Disengaged/Neutral)
+CUST00955,2,Discontent Dormant (High Negative Feedback)
+CUST00956,3,VIP Loyal
+CUST00957,4,One-Timer / Lapsed Episodic
+CUST00958,2,Discontent Dormant (High Negative Feedback)
+CUST00959,1,Dormant Regulars (Disengaged/Neutral)
+CUST00960,0,Cooling Regulars (At-Risk)
+CUST00961,4,One-Timer / Lapsed Episodic
+CUST00962,3,VIP Loyal
+CUST00963,0,Cooling Regulars (At-Risk)
+CUST00964,1,Dormant Regulars (Disengaged/Neutral)
+CUST00965,2,Discontent Dormant (High Negative Feedback)
+CUST00966,2,Discontent Dormant (High Negative Feedback)
+CUST00967,1,Dormant Regulars (Disengaged/Neutral)
+CUST00968,3,VIP Loyal
+CUST00969,2,Discontent Dormant (High Negative Feedback)
+CUST00970,1,Dormant Regulars (Disengaged/Neutral)
+CUST00971,4,One-Timer / Lapsed Episodic
+CUST00972,0,Cooling Regulars (At-Risk)
+CUST00973,1,Dormant Regulars (Disengaged/Neutral)
+CUST00974,0,Cooling Regulars (At-Risk)
+CUST00975,4,One-Timer / Lapsed Episodic
+CUST00976,4,One-Timer / Lapsed Episodic
+CUST00977,3,VIP Loyal
+CUST00978,2,Discontent Dormant (High Negative Feedback)
+CUST00979,3,VIP Loyal
+CUST00980,2,Discontent Dormant (High Negative Feedback)
+CUST00981,1,Dormant Regulars (Disengaged/Neutral)
+CUST00982,4,One-Timer / Lapsed Episodic
+CUST00983,3,VIP Loyal
+CUST00984,0,Cooling Regulars (At-Risk)
+CUST00985,1,Dormant Regulars (Disengaged/Neutral)
+CUST00986,3,VIP Loyal
+CUST00987,2,Discontent Dormant (High Negative Feedback)
+CUST00988,1,Dormant Regulars (Disengaged/Neutral)
+CUST00989,3,VIP Loyal
+CUST00990,2,Discontent Dormant (High Negative Feedback)
+CUST00991,2,Discontent Dormant (High Negative Feedback)
+CUST00992,3,VIP Loyal
+CUST00993,0,Cooling Regulars (At-Risk)
+CUST00994,1,Dormant Regulars (Disengaged/Neutral)
+CUST00995,0,Cooling Regulars (At-Risk)
+CUST00996,1,Dormant Regulars (Disengaged/Neutral)
+CUST00997,1,Dormant Regulars (Disengaged/Neutral)
+CUST00998,1,Dormant Regulars (Disengaged/Neutral)
+CUST00999,0,Cooling Regulars (At-Risk)
+CUST01000,0,Cooling Regulars (At-Risk)
+CUST01001,0,Cooling Regulars (At-Risk)
+CUST01002,1,Dormant Regulars (Disengaged/Neutral)
+CUST01003,4,One-Timer / Lapsed Episodic
+CUST01004,1,Dormant Regulars (Disengaged/Neutral)
+CUST01005,4,One-Timer / Lapsed Episodic
+CUST01006,1,Dormant Regulars (Disengaged/Neutral)
+CUST01007,1,Dormant Regulars (Disengaged/Neutral)
+CUST01008,4,One-Timer / Lapsed Episodic
+CUST01009,4,One-Timer / Lapsed Episodic
+CUST01010,0,Cooling Regulars (At-Risk)
+CUST01011,0,Cooling Regulars (At-Risk)
+CUST01012,0,Cooling Regulars (At-Risk)
+CUST01013,1,Dormant Regulars (Disengaged/Neutral)
+CUST01014,2,Discontent Dormant (High Negative Feedback)
+CUST01015,0,Cooling Regulars (At-Risk)
+CUST01016,0,Cooling Regulars (At-Risk)
+CUST01017,3,VIP Loyal
+CUST01018,1,Dormant Regulars (Disengaged/Neutral)
+CUST01019,3,VIP Loyal
+CUST01020,3,VIP Loyal
+CUST01021,3,VIP Loyal
+CUST01022,0,Cooling Regulars (At-Risk)
+CUST01023,2,Discontent Dormant (High Negative Feedback)
+CUST01024,1,Dormant Regulars (Disengaged/Neutral)
+CUST01025,0,Cooling Regulars (At-Risk)
+CUST01026,3,VIP Loyal
+CUST01027,2,Discontent Dormant (High Negative Feedback)
+CUST01028,2,Discontent Dormant (High Negative Feedback)
+CUST01029,2,Discontent Dormant (High Negative Feedback)
+CUST01030,2,Discontent Dormant (High Negative Feedback)
+CUST01031,3,VIP Loyal
+CUST01032,3,VIP Loyal
+CUST01033,2,Discontent Dormant (High Negative Feedback)
+CUST01034,1,Dormant Regulars (Disengaged/Neutral)
+CUST01035,1,Dormant Regulars (Disengaged/Neutral)
+CUST01036,0,Cooling Regulars (At-Risk)
+CUST01037,2,Discontent Dormant (High Negative Feedback)
+CUST01038,3,VIP Loyal
+CUST01040,2,Discontent Dormant (High Negative Feedback)
+CUST01042,1,Dormant Regulars (Disengaged/Neutral)
+CUST01043,2,Discontent Dormant (High Negative Feedback)
+CUST01044,1,Dormant Regulars (Disengaged/Neutral)
+CUST01045,0,Cooling Regulars (At-Risk)
+CUST01046,3,VIP Loyal
+CUST01047,0,Cooling Regulars (At-Risk)
+CUST01048,2,Discontent Dormant (High Negative Feedback)
+CUST01049,1,Dormant Regulars (Disengaged/Neutral)
+CUST01050,0,Cooling Regulars (At-Risk)
+CUST01051,0,Cooling Regulars (At-Risk)
+CUST01052,0,Cooling Regulars (At-Risk)
+CUST01053,1,Dormant Regulars (Disengaged/Neutral)
+CUST01054,0,Cooling Regulars (At-Risk)
+CUST01055,2,Discontent Dormant (High Negative Feedback)
+CUST01056,2,Discontent Dormant (High Negative Feedback)
+CUST01057,1,Dormant Regulars (Disengaged/Neutral)
+CUST01058,2,Discontent Dormant (High Negative Feedback)
+CUST01059,4,One-Timer / Lapsed Episodic
+CUST01060,4,One-Timer / Lapsed Episodic
+CUST01061,2,Discontent Dormant (High Negative Feedback)
+CUST01062,2,Discontent Dormant (High Negative Feedback)
+CUST01063,1,Dormant Regulars (Disengaged/Neutral)
+CUST01064,0,Cooling Regulars (At-Risk)
+CUST01065,1,Dormant Regulars (Disengaged/Neutral)
+CUST01066,2,Discontent Dormant (High Negative Feedback)
+CUST01067,0,Cooling Regulars (At-Risk)
+CUST01068,0,Cooling Regulars (At-Risk)
+CUST01069,0,Cooling Regulars (At-Risk)
+CUST01070,3,VIP Loyal
+CUST01071,2,Discontent Dormant (High Negative Feedback)
+CUST01072,4,One-Timer / Lapsed Episodic
+CUST01073,2,Discontent Dormant (High Negative Feedback)
+CUST01074,0,Cooling Regulars (At-Risk)
+CUST01075,0,Cooling Regulars (At-Risk)
+CUST01076,0,Cooling Regulars (At-Risk)
+CUST01077,3,VIP Loyal
+CUST01078,1,Dormant Regulars (Disengaged/Neutral)
+CUST01079,4,One-Timer / Lapsed Episodic
+CUST01080,1,Dormant Regulars (Disengaged/Neutral)
+CUST01081,0,Cooling Regulars (At-Risk)
+CUST01082,4,One-Timer / Lapsed Episodic
+CUST01083,2,Discontent Dormant (High Negative Feedback)
+CUST01084,1,Dormant Regulars (Disengaged/Neutral)
+CUST01086,3,VIP Loyal
+CUST01087,3,VIP Loyal
+CUST01088,4,One-Timer / Lapsed Episodic
+CUST01089,1,Dormant Regulars (Disengaged/Neutral)
+CUST01090,1,Dormant Regulars (Disengaged/Neutral)
+CUST01091,0,Cooling Regulars (At-Risk)
+CUST01092,0,Cooling Regulars (At-Risk)
+CUST01093,0,Cooling Regulars (At-Risk)
+CUST01094,1,Dormant Regulars (Disengaged/Neutral)
+CUST01095,4,One-Timer / Lapsed Episodic
+CUST01096,0,Cooling Regulars (At-Risk)
+CUST01097,0,Cooling Regulars (At-Risk)
+CUST01098,4,One-Timer / Lapsed Episodic
+CUST01099,4,One-Timer / Lapsed Episodic
+CUST01100,0,Cooling Regulars (At-Risk)
+CUST01101,0,Cooling Regulars (At-Risk)
+CUST01102,1,Dormant Regulars (Disengaged/Neutral)
+CUST01103,1,Dormant Regulars (Disengaged/Neutral)
+CUST01104,1,Dormant Regulars (Disengaged/Neutral)
+CUST01105,2,Discontent Dormant (High Negative Feedback)
+CUST01106,2,Discontent Dormant (High Negative Feedback)
+CUST01107,0,Cooling Regulars (At-Risk)
+CUST01108,2,Discontent Dormant (High Negative Feedback)
+CUST01109,0,Cooling Regulars (At-Risk)
+CUST01110,3,VIP Loyal
+CUST01111,2,Discontent Dormant (High Negative Feedback)
+CUST01112,1,Dormant Regulars (Disengaged/Neutral)
+CUST01113,3,VIP Loyal
+CUST01114,1,Dormant Regulars (Disengaged/Neutral)
+CUST01115,4,One-Timer / Lapsed Episodic
+CUST01116,4,One-Timer / Lapsed Episodic
+CUST01117,3,VIP Loyal
+CUST01118,3,VIP Loyal
+CUST01119,0,Cooling Regulars (At-Risk)
+CUST01120,2,Discontent Dormant (High Negative Feedback)
+CUST01121,1,Dormant Regulars (Disengaged/Neutral)
+CUST01122,1,Dormant Regulars (Disengaged/Neutral)
+CUST01123,0,Cooling Regulars (At-Risk)
+CUST01124,0,Cooling Regulars (At-Risk)
+CUST01125,0,Cooling Regulars (At-Risk)
+CUST01126,0,Cooling Regulars (At-Risk)
+CUST01127,0,Cooling Regulars (At-Risk)
+CUST01128,4,One-Timer / Lapsed Episodic
+CUST01129,3,VIP Loyal
+CUST01130,2,Discontent Dormant (High Negative Feedback)
+CUST01131,1,Dormant Regulars (Disengaged/Neutral)
+CUST01132,3,VIP Loyal
+CUST01133,1,Dormant Regulars (Disengaged/Neutral)
+CUST01134,2,Discontent Dormant (High Negative Feedback)
+CUST01135,4,One-Timer / Lapsed Episodic
+CUST01136,1,Dormant Regulars (Disengaged/Neutral)
+CUST01138,2,Discontent Dormant (High Negative Feedback)
+CUST01139,3,VIP Loyal
+CUST01140,1,Dormant Regulars (Disengaged/Neutral)
+CUST01141,0,Cooling Regulars (At-Risk)
+CUST01142,2,Discontent Dormant (High Negative Feedback)
+CUST01143,1,Dormant Regulars (Disengaged/Neutral)
+CUST01144,1,Dormant Regulars (Disengaged/Neutral)
+CUST01145,0,Cooling Regulars (At-Risk)
+CUST01146,4,One-Timer / Lapsed Episodic
+CUST01147,3,VIP Loyal
+CUST01148,4,One-Timer / Lapsed Episodic
+CUST01149,2,Discontent Dormant (High Negative Feedback)
+CUST01150,0,Cooling Regulars (At-Risk)
+CUST01151,3,VIP Loyal
+CUST01152,0,Cooling Regulars (At-Risk)
+CUST01153,1,Dormant Regulars (Disengaged/Neutral)
+CUST01154,2,Discontent Dormant (High Negative Feedback)
+CUST01155,0,Cooling Regulars (At-Risk)
+CUST01156,1,Dormant Regulars (Disengaged/Neutral)
+CUST01157,0,Cooling Regulars (At-Risk)
+CUST01158,1,Dormant Regulars (Disengaged/Neutral)
+CUST01159,2,Discontent Dormant (High Negative Feedback)
+CUST01160,0,Cooling Regulars (At-Risk)
+CUST01161,0,Cooling Regulars (At-Risk)
+CUST01162,1,Dormant Regulars (Disengaged/Neutral)
+CUST01163,1,Dormant Regulars (Disengaged/Neutral)
+CUST01164,0,Cooling Regulars (At-Risk)
+CUST01165,0,Cooling Regulars (At-Risk)
+CUST01166,4,One-Timer / Lapsed Episodic
+CUST01167,2,Discontent Dormant (High Negative Feedback)
+CUST01168,0,Cooling Regulars (At-Risk)
+CUST01169,0,Cooling Regulars (At-Risk)
+CUST01170,4,One-Timer / Lapsed Episodic
+CUST01171,3,VIP Loyal
+CUST01172,2,Discontent Dormant (High Negative Feedback)
+CUST01173,2,Discontent Dormant (High Negative Feedback)
+CUST01174,3,VIP Loyal
+CUST01175,3,VIP Loyal
+CUST01176,2,Discontent Dormant (High Negative Feedback)
+CUST01177,3,VIP Loyal
+CUST01178,0,Cooling Regulars (At-Risk)
+CUST01179,0,Cooling Regulars (At-Risk)
+CUST01180,1,Dormant Regulars (Disengaged/Neutral)
+CUST01181,3,VIP Loyal
+CUST01182,0,Cooling Regulars (At-Risk)
+CUST01183,0,Cooling Regulars (At-Risk)
+CUST01184,0,Cooling Regulars (At-Risk)
+CUST01185,2,Discontent Dormant (High Negative Feedback)
+CUST01186,0,Cooling Regulars (At-Risk)
+CUST01187,0,Cooling Regulars (At-Risk)
+CUST01188,2,Discontent Dormant (High Negative Feedback)
+CUST01189,0,Cooling Regulars (At-Risk)
+CUST01190,1,Dormant Regulars (Disengaged/Neutral)
+CUST01191,2,Discontent Dormant (High Negative Feedback)
+CUST01192,3,VIP Loyal
+CUST01193,3,VIP Loyal
+CUST01194,1,Dormant Regulars (Disengaged/Neutral)
+CUST01195,3,VIP Loyal
+CUST01196,2,Discontent Dormant (High Negative Feedback)
+CUST01197,1,Dormant Regulars (Disengaged/Neutral)
+CUST01198,0,Cooling Regulars (At-Risk)
+CUST01199,2,Discontent Dormant (High Negative Feedback)
+CUST01200,1,Dormant Regulars (Disengaged/Neutral)
+CUST01201,2,Discontent Dormant (High Negative Feedback)
+CUST01202,2,Discontent Dormant (High Negative Feedback)
+CUST01203,1,Dormant Regulars (Disengaged/Neutral)
+CUST01204,2,Discontent Dormant (High Negative Feedback)
+CUST01205,4,One-Timer / Lapsed Episodic
+CUST01206,1,Dormant Regulars (Disengaged/Neutral)
+CUST01207,0,Cooling Regulars (At-Risk)
+CUST01208,2,Discontent Dormant (High Negative Feedback)
+CUST01210,2,Discontent Dormant (High Negative Feedback)
+CUST01211,3,VIP Loyal
+CUST01212,1,Dormant Regulars (Disengaged/Neutral)
+CUST01213,4,One-Timer / Lapsed Episodic
+CUST01214,4,One-Timer / Lapsed Episodic
+CUST01215,1,Dormant Regulars (Disengaged/Neutral)
+CUST01216,3,VIP Loyal
+CUST01217,1,Dormant Regulars (Disengaged/Neutral)
+CUST01218,2,Discontent Dormant (High Negative Feedback)
+CUST01219,0,Cooling Regulars (At-Risk)
+CUST01220,0,Cooling Regulars (At-Risk)
+CUST01221,0,Cooling Regulars (At-Risk)
+CUST01222,0,Cooling Regulars (At-Risk)
+CUST01223,0,Cooling Regulars (At-Risk)
+CUST01224,0,Cooling Regulars (At-Risk)
+CUST01225,0,Cooling Regulars (At-Risk)
+CUST01226,2,Discontent Dormant (High Negative Feedback)
+CUST01227,0,Cooling Regulars (At-Risk)
+CUST01228,3,VIP Loyal
+CUST01229,2,Discontent Dormant (High Negative Feedback)
+CUST01230,0,Cooling Regulars (At-Risk)
+CUST01231,0,Cooling Regulars (At-Risk)
+CUST01232,1,Dormant Regulars (Disengaged/Neutral)
+CUST01233,2,Discontent Dormant (High Negative Feedback)
+CUST01234,1,Dormant Regulars (Disengaged/Neutral)
+CUST01235,2,Discontent Dormant (High Negative Feedback)
+CUST01236,0,Cooling Regulars (At-Risk)
+CUST01237,2,Discontent Dormant (High Negative Feedback)
+CUST01238,2,Discontent Dormant (High Negative Feedback)
+CUST01239,3,VIP Loyal
+CUST01240,1,Dormant Regulars (Disengaged/Neutral)
+CUST01241,1,Dormant Regulars (Disengaged/Neutral)
+CUST01242,0,Cooling Regulars (At-Risk)
+CUST01243,3,VIP Loyal
+CUST01244,4,One-Timer / Lapsed Episodic
+CUST01245,1,Dormant Regulars (Disengaged/Neutral)
+CUST01246,1,Dormant Regulars (Disengaged/Neutral)
+CUST01247,1,Dormant Regulars (Disengaged/Neutral)
+CUST01248,0,Cooling Regulars (At-Risk)
+CUST01249,3,VIP Loyal
+CUST01250,1,Dormant Regulars (Disengaged/Neutral)
+CUST01251,1,Dormant Regulars (Disengaged/Neutral)
+CUST01252,2,Discontent Dormant (High Negative Feedback)
+CUST01253,3,VIP Loyal
+CUST01254,0,Cooling Regulars (At-Risk)
+CUST01255,2,Discontent Dormant (High Negative Feedback)
+CUST01256,0,Cooling Regulars (At-Risk)
+CUST01257,4,One-Timer / Lapsed Episodic
+CUST01258,2,Discontent Dormant (High Negative Feedback)
+CUST01259,1,Dormant Regulars (Disengaged/Neutral)
+CUST01260,4,One-Timer / Lapsed Episodic
+CUST01261,0,Cooling Regulars (At-Risk)
+CUST01262,1,Dormant Regulars (Disengaged/Neutral)
+CUST01263,4,One-Timer / Lapsed Episodic
+CUST01264,3,VIP Loyal
+CUST01265,1,Dormant Regulars (Disengaged/Neutral)
+CUST01266,0,Cooling Regulars (At-Risk)
+CUST01267,3,VIP Loyal
+CUST01268,2,Discontent Dormant (High Negative Feedback)
+CUST01269,2,Discontent Dormant (High Negative Feedback)
+CUST01270,1,Dormant Regulars (Disengaged/Neutral)
+CUST01271,1,Dormant Regulars (Disengaged/Neutral)
+CUST01272,1,Dormant Regulars (Disengaged/Neutral)
+CUST01273,3,VIP Loyal
+CUST01274,1,Dormant Regulars (Disengaged/Neutral)
+CUST01275,2,Discontent Dormant (High Negative Feedback)
+CUST01276,3,VIP Loyal
+CUST01277,4,One-Timer / Lapsed Episodic
+CUST01278,0,Cooling Regulars (At-Risk)
+CUST01279,3,VIP Loyal
+CUST01280,1,Dormant Regulars (Disengaged/Neutral)
+CUST01281,1,Dormant Regulars (Disengaged/Neutral)
+CUST01282,2,Discontent Dormant (High Negative Feedback)
+CUST01283,0,Cooling Regulars (At-Risk)
+CUST01284,1,Dormant Regulars (Disengaged/Neutral)
+CUST01285,0,Cooling Regulars (At-Risk)
+CUST01286,3,VIP Loyal
+CUST01287,2,Discontent Dormant (High Negative Feedback)
+CUST01288,2,Discontent Dormant (High Negative Feedback)
+CUST01289,0,Cooling Regulars (At-Risk)
+CUST01290,0,Cooling Regulars (At-Risk)
+CUST01291,3,VIP Loyal
+CUST01292,3,VIP Loyal
+CUST01293,3,VIP Loyal
+CUST01294,2,Discontent Dormant (High Negative Feedback)
+CUST01295,2,Discontent Dormant (High Negative Feedback)
+CUST01296,1,Dormant Regulars (Disengaged/Neutral)
+CUST01297,2,Discontent Dormant (High Negative Feedback)
+CUST01298,2,Discontent Dormant (High Negative Feedback)
+CUST01299,3,VIP Loyal
+CUST01300,3,VIP Loyal
+CUST01301,1,Dormant Regulars (Disengaged/Neutral)
+CUST01302,3,VIP Loyal
+CUST01303,2,Discontent Dormant (High Negative Feedback)
+CUST01304,3,VIP Loyal
+CUST01305,1,Dormant Regulars (Disengaged/Neutral)
+CUST01306,1,Dormant Regulars (Disengaged/Neutral)
+CUST01307,2,Discontent Dormant (High Negative Feedback)
+CUST01308,1,Dormant Regulars (Disengaged/Neutral)
+CUST01309,3,VIP Loyal
+CUST01310,1,Dormant Regulars (Disengaged/Neutral)
+CUST01311,2,Discontent Dormant (High Negative Feedback)
+CUST01312,0,Cooling Regulars (At-Risk)
+CUST01313,0,Cooling Regulars (At-Risk)
+CUST01314,2,Discontent Dormant (High Negative Feedback)
+CUST01315,1,Dormant Regulars (Disengaged/Neutral)
+CUST01316,1,Dormant Regulars (Disengaged/Neutral)
+CUST01317,1,Dormant Regulars (Disengaged/Neutral)
+CUST01318,1,Dormant Regulars (Disengaged/Neutral)
+CUST01319,0,Cooling Regulars (At-Risk)
+CUST01320,3,VIP Loyal
+CUST01321,0,Cooling Regulars (At-Risk)
+CUST01322,3,VIP Loyal
+CUST01323,2,Discontent Dormant (High Negative Feedback)
+CUST01324,2,Discontent Dormant (High Negative Feedback)
+CUST01325,1,Dormant Regulars (Disengaged/Neutral)
+CUST01326,0,Cooling Regulars (At-Risk)
+CUST01327,0,Cooling Regulars (At-Risk)
+CUST01328,0,Cooling Regulars (At-Risk)
+CUST01329,1,Dormant Regulars (Disengaged/Neutral)
+CUST01330,0,Cooling Regulars (At-Risk)
+CUST01331,2,Discontent Dormant (High Negative Feedback)
+CUST01332,2,Discontent Dormant (High Negative Feedback)
+CUST01333,1,Dormant Regulars (Disengaged/Neutral)
+CUST01334,1,Dormant Regulars (Disengaged/Neutral)
+CUST01335,1,Dormant Regulars (Disengaged/Neutral)
+CUST01336,0,Cooling Regulars (At-Risk)
+CUST01337,0,Cooling Regulars (At-Risk)
+CUST01338,3,VIP Loyal
+CUST01339,1,Dormant Regulars (Disengaged/Neutral)
+CUST01340,2,Discontent Dormant (High Negative Feedback)
+CUST01341,2,Discontent Dormant (High Negative Feedback)
+CUST01342,2,Discontent Dormant (High Negative Feedback)
+CUST01343,0,Cooling Regulars (At-Risk)
+CUST01344,2,Discontent Dormant (High Negative Feedback)
+CUST01345,0,Cooling Regulars (At-Risk)
+CUST01346,2,Discontent Dormant (High Negative Feedback)
+CUST01347,2,Discontent Dormant (High Negative Feedback)
+CUST01348,2,Discontent Dormant (High Negative Feedback)
+CUST01349,0,Cooling Regulars (At-Risk)
+CUST01350,1,Dormant Regulars (Disengaged/Neutral)
+CUST01351,1,Dormant Regulars (Disengaged/Neutral)
+CUST01353,1,Dormant Regulars (Disengaged/Neutral)
+CUST01354,3,VIP Loyal
+CUST01355,1,Dormant Regulars (Disengaged/Neutral)
+CUST01356,3,VIP Loyal
+CUST01357,1,Dormant Regulars (Disengaged/Neutral)
+CUST01358,1,Dormant Regulars (Disengaged/Neutral)
+CUST01359,1,Dormant Regulars (Disengaged/Neutral)
+CUST01360,0,Cooling Regulars (At-Risk)
+CUST01361,1,Dormant Regulars (Disengaged/Neutral)
+CUST01362,2,Discontent Dormant (High Negative Feedback)
+CUST01363,1,Dormant Regulars (Disengaged/Neutral)
+CUST01364,1,Dormant Regulars (Disengaged/Neutral)
+CUST01365,1,Dormant Regulars (Disengaged/Neutral)
+CUST01366,3,VIP Loyal
+CUST01367,1,Dormant Regulars (Disengaged/Neutral)
+CUST01368,2,Discontent Dormant (High Negative Feedback)
+CUST01369,3,VIP Loyal
+CUST01370,2,Discontent Dormant (High Negative Feedback)
+CUST01371,3,VIP Loyal
+CUST01372,1,Dormant Regulars (Disengaged/Neutral)
+CUST01373,1,Dormant Regulars (Disengaged/Neutral)
+CUST01374,3,VIP Loyal
+CUST01375,1,Dormant Regulars (Disengaged/Neutral)
+CUST01376,2,Discontent Dormant (High Negative Feedback)
+CUST01377,1,Dormant Regulars (Disengaged/Neutral)
+CUST01378,1,Dormant Regulars (Disengaged/Neutral)
+CUST01379,1,Dormant Regulars (Disengaged/Neutral)
+CUST01380,0,Cooling Regulars (At-Risk)
+CUST01381,0,Cooling Regulars (At-Risk)
+CUST01382,2,Discontent Dormant (High Negative Feedback)
+CUST01383,4,One-Timer / Lapsed Episodic
+CUST01384,0,Cooling Regulars (At-Risk)
+CUST01385,2,Discontent Dormant (High Negative Feedback)
+CUST01386,0,Cooling Regulars (At-Risk)
+CUST01387,2,Discontent Dormant (High Negative Feedback)
+CUST01388,1,Dormant Regulars (Disengaged/Neutral)
+CUST01389,1,Dormant Regulars (Disengaged/Neutral)
+CUST01390,3,VIP Loyal
+CUST01391,1,Dormant Regulars (Disengaged/Neutral)
+CUST01392,2,Discontent Dormant (High Negative Feedback)
+CUST01393,0,Cooling Regulars (At-Risk)
+CUST01394,2,Discontent Dormant (High Negative Feedback)
+CUST01395,0,Cooling Regulars (At-Risk)
+CUST01396,3,VIP Loyal
+CUST01397,1,Dormant Regulars (Disengaged/Neutral)
+CUST01398,3,VIP Loyal
+CUST01399,2,Discontent Dormant (High Negative Feedback)
+CUST01400,4,One-Timer / Lapsed Episodic
+CUST01401,0,Cooling Regulars (At-Risk)
+CUST01402,2,Discontent Dormant (High Negative Feedback)
+CUST01403,1,Dormant Regulars (Disengaged/Neutral)
+CUST01404,1,Dormant Regulars (Disengaged/Neutral)
+CUST01405,3,VIP Loyal
+CUST01406,3,VIP Loyal
+CUST01407,1,Dormant Regulars (Disengaged/Neutral)
+CUST01408,3,VIP Loyal
+CUST01409,2,Discontent Dormant (High Negative Feedback)
+CUST01410,1,Dormant Regulars (Disengaged/Neutral)
+CUST01411,4,One-Timer / Lapsed Episodic
+CUST01412,3,VIP Loyal
+CUST01413,2,Discontent Dormant (High Negative Feedback)
+CUST01414,1,Dormant Regulars (Disengaged/Neutral)
+CUST01415,2,Discontent Dormant (High Negative Feedback)
+CUST01416,2,Discontent Dormant (High Negative Feedback)
+CUST01417,4,One-Timer / Lapsed Episodic
+CUST01418,3,VIP Loyal
+CUST01419,3,VIP Loyal
+CUST01420,3,VIP Loyal
+CUST01421,0,Cooling Regulars (At-Risk)
+CUST01422,2,Discontent Dormant (High Negative Feedback)
+CUST01423,1,Dormant Regulars (Disengaged/Neutral)
+CUST01424,2,Discontent Dormant (High Negative Feedback)
+CUST01425,3,VIP Loyal
+CUST01426,3,VIP Loyal
+CUST01427,1,Dormant Regulars (Disengaged/Neutral)
+CUST01428,1,Dormant Regulars (Disengaged/Neutral)
+CUST01429,0,Cooling Regulars (At-Risk)
+CUST01430,2,Discontent Dormant (High Negative Feedback)
+CUST01431,3,VIP Loyal
+CUST01432,4,One-Timer / Lapsed Episodic
+CUST01433,3,VIP Loyal
+CUST01434,3,VIP Loyal
+CUST01435,0,Cooling Regulars (At-Risk)
+CUST01436,2,Discontent Dormant (High Negative Feedback)
+CUST01437,0,Cooling Regulars (At-Risk)
+CUST01438,0,Cooling Regulars (At-Risk)
+CUST01439,2,Discontent Dormant (High Negative Feedback)
+CUST01440,2,Discontent Dormant (High Negative Feedback)
+CUST01441,1,Dormant Regulars (Disengaged/Neutral)
+CUST01442,2,Discontent Dormant (High Negative Feedback)
+CUST01443,4,One-Timer / Lapsed Episodic
+CUST01444,1,Dormant Regulars (Disengaged/Neutral)
+CUST01445,2,Discontent Dormant (High Negative Feedback)
+CUST01446,3,VIP Loyal
+CUST01447,3,VIP Loyal
+CUST01448,0,Cooling Regulars (At-Risk)
+CUST01449,4,One-Timer / Lapsed Episodic
+CUST01450,0,Cooling Regulars (At-Risk)
+CUST01451,3,VIP Loyal
+CUST01452,3,VIP Loyal
+CUST01453,2,Discontent Dormant (High Negative Feedback)
+CUST01454,1,Dormant Regulars (Disengaged/Neutral)
+CUST01455,3,VIP Loyal
+CUST01456,3,VIP Loyal
+CUST01457,3,VIP Loyal
+CUST01458,3,VIP Loyal
+CUST01459,1,Dormant Regulars (Disengaged/Neutral)
+CUST01460,0,Cooling Regulars (At-Risk)
+CUST01461,2,Discontent Dormant (High Negative Feedback)
+CUST01462,4,One-Timer / Lapsed Episodic
+CUST01463,3,VIP Loyal
+CUST01464,4,One-Timer / Lapsed Episodic
+CUST01465,3,VIP Loyal
+CUST01466,0,Cooling Regulars (At-Risk)
+CUST01467,2,Discontent Dormant (High Negative Feedback)
+CUST01468,0,Cooling Regulars (At-Risk)
+CUST01469,1,Dormant Regulars (Disengaged/Neutral)
+CUST01470,0,Cooling Regulars (At-Risk)
+CUST01471,1,Dormant Regulars (Disengaged/Neutral)
+CUST01472,1,Dormant Regulars (Disengaged/Neutral)
+CUST01473,2,Discontent Dormant (High Negative Feedback)
+CUST01474,1,Dormant Regulars (Disengaged/Neutral)
+CUST01475,3,VIP Loyal
+CUST01476,2,Discontent Dormant (High Negative Feedback)
+CUST01477,1,Dormant Regulars (Disengaged/Neutral)
+CUST01478,1,Dormant Regulars (Disengaged/Neutral)
+CUST01479,4,One-Timer / Lapsed Episodic
+CUST01480,3,VIP Loyal
+CUST01481,1,Dormant Regulars (Disengaged/Neutral)
+CUST01482,1,Dormant Regulars (Disengaged/Neutral)
+CUST01483,2,Discontent Dormant (High Negative Feedback)
+CUST01484,1,Dormant Regulars (Disengaged/Neutral)
+CUST01485,0,Cooling Regulars (At-Risk)
+CUST01486,0,Cooling Regulars (At-Risk)
+CUST01487,3,VIP Loyal
+CUST01488,0,Cooling Regulars (At-Risk)
+CUST01489,0,Cooling Regulars (At-Risk)
+CUST01490,2,Discontent Dormant (High Negative Feedback)
+CUST01491,2,Discontent Dormant (High Negative Feedback)
+CUST01492,2,Discontent Dormant (High Negative Feedback)
+CUST01493,2,Discontent Dormant (High Negative Feedback)
+CUST01494,1,Dormant Regulars (Disengaged/Neutral)
+CUST01495,3,VIP Loyal
+CUST01496,3,VIP Loyal
+CUST01497,2,Discontent Dormant (High Negative Feedback)
+CUST01498,3,VIP Loyal
+CUST01499,2,Discontent Dormant (High Negative Feedback)
+CUST01500,3,VIP Loyal
+CUST01501,0,Cooling Regulars (At-Risk)
+CUST01502,1,Dormant Regulars (Disengaged/Neutral)
+CUST01503,3,VIP Loyal
+CUST01504,3,VIP Loyal
+CUST01505,3,VIP Loyal
+CUST01506,3,VIP Loyal
+CUST01507,2,Discontent Dormant (High Negative Feedback)
+CUST01508,0,Cooling Regulars (At-Risk)
+CUST01509,1,Dormant Regulars (Disengaged/Neutral)
+CUST01510,3,VIP Loyal
+CUST01511,1,Dormant Regulars (Disengaged/Neutral)
+CUST01512,1,Dormant Regulars (Disengaged/Neutral)
+CUST01513,4,One-Timer / Lapsed Episodic
+CUST01514,0,Cooling Regulars (At-Risk)
+CUST01515,0,Cooling Regulars (At-Risk)
+CUST01516,2,Discontent Dormant (High Negative Feedback)
+CUST01517,0,Cooling Regulars (At-Risk)
+CUST01518,1,Dormant Regulars (Disengaged/Neutral)
+CUST01519,3,VIP Loyal
+CUST01520,1,Dormant Regulars (Disengaged/Neutral)
+CUST01521,3,VIP Loyal
+CUST01522,1,Dormant Regulars (Disengaged/Neutral)
+CUST01523,0,Cooling Regulars (At-Risk)
+CUST01524,1,Dormant Regulars (Disengaged/Neutral)
+CUST01525,4,One-Timer / Lapsed Episodic
+CUST01526,1,Dormant Regulars (Disengaged/Neutral)
+CUST01527,3,VIP Loyal
+CUST01528,0,Cooling Regulars (At-Risk)
+CUST01529,4,One-Timer / Lapsed Episodic
+CUST01531,1,Dormant Regulars (Disengaged/Neutral)
+CUST01532,1,Dormant Regulars (Disengaged/Neutral)
+CUST01533,2,Discontent Dormant (High Negative Feedback)
+CUST01534,2,Discontent Dormant (High Negative Feedback)
+CUST01535,0,Cooling Regulars (At-Risk)
+CUST01536,2,Discontent Dormant (High Negative Feedback)
+CUST01537,2,Discontent Dormant (High Negative Feedback)
+CUST01538,3,VIP Loyal
+CUST01539,1,Dormant Regulars (Disengaged/Neutral)
+CUST01540,3,VIP Loyal
+CUST01541,0,Cooling Regulars (At-Risk)
+CUST01542,4,One-Timer / Lapsed Episodic
+CUST01543,2,Discontent Dormant (High Negative Feedback)
+CUST01544,1,Dormant Regulars (Disengaged/Neutral)
+CUST01545,1,Dormant Regulars (Disengaged/Neutral)
+CUST01546,0,Cooling Regulars (At-Risk)
+CUST01547,0,Cooling Regulars (At-Risk)
+CUST01548,2,Discontent Dormant (High Negative Feedback)
+CUST01549,1,Dormant Regulars (Disengaged/Neutral)
+CUST01550,4,One-Timer / Lapsed Episodic
+CUST01551,0,Cooling Regulars (At-Risk)
+CUST01552,0,Cooling Regulars (At-Risk)
+CUST01553,2,Discontent Dormant (High Negative Feedback)
+CUST01554,2,Discontent Dormant (High Negative Feedback)
+CUST01555,0,Cooling Regulars (At-Risk)
+CUST01556,0,Cooling Regulars (At-Risk)
+CUST01557,2,Discontent Dormant (High Negative Feedback)
+CUST01558,3,VIP Loyal
+CUST01559,1,Dormant Regulars (Disengaged/Neutral)
+CUST01560,1,Dormant Regulars (Disengaged/Neutral)
+CUST01561,1,Dormant Regulars (Disengaged/Neutral)
+CUST01562,1,Dormant Regulars (Disengaged/Neutral)
+CUST01563,4,One-Timer / Lapsed Episodic
+CUST01564,3,VIP Loyal
+CUST01565,0,Cooling Regulars (At-Risk)
+CUST01566,2,Discontent Dormant (High Negative Feedback)
+CUST01567,1,Dormant Regulars (Disengaged/Neutral)
+CUST01568,0,Cooling Regulars (At-Risk)
+CUST01569,3,VIP Loyal
+CUST01570,0,Cooling Regulars (At-Risk)
+CUST01571,3,VIP Loyal
+CUST01572,3,VIP Loyal
+CUST01573,3,VIP Loyal
+CUST01574,3,VIP Loyal
+CUST01575,1,Dormant Regulars (Disengaged/Neutral)
+CUST01576,3,VIP Loyal
+CUST01577,1,Dormant Regulars (Disengaged/Neutral)
+CUST01578,2,Discontent Dormant (High Negative Feedback)
+CUST01579,2,Discontent Dormant (High Negative Feedback)
+CUST01580,2,Discontent Dormant (High Negative Feedback)
+CUST01581,1,Dormant Regulars (Disengaged/Neutral)
+CUST01582,1,Dormant Regulars (Disengaged/Neutral)
+CUST01583,4,One-Timer / Lapsed Episodic
+CUST01584,3,VIP Loyal
+CUST01585,1,Dormant Regulars (Disengaged/Neutral)
+CUST01586,2,Discontent Dormant (High Negative Feedback)
+CUST01587,1,Dormant Regulars (Disengaged/Neutral)
+CUST01588,1,Dormant Regulars (Disengaged/Neutral)
+CUST01589,1,Dormant Regulars (Disengaged/Neutral)
+CUST01590,1,Dormant Regulars (Disengaged/Neutral)
+CUST01591,1,Dormant Regulars (Disengaged/Neutral)
+CUST01592,3,VIP Loyal
+CUST01593,1,Dormant Regulars (Disengaged/Neutral)
+CUST01594,1,Dormant Regulars (Disengaged/Neutral)
+CUST01595,1,Dormant Regulars (Disengaged/Neutral)
+CUST01596,0,Cooling Regulars (At-Risk)
+CUST01597,0,Cooling Regulars (At-Risk)
+CUST01598,0,Cooling Regulars (At-Risk)
+CUST01599,0,Cooling Regulars (At-Risk)
+CUST01600,1,Dormant Regulars (Disengaged/Neutral)
+CUST01601,2,Discontent Dormant (High Negative Feedback)
+CUST01602,3,VIP Loyal
+CUST01603,0,Cooling Regulars (At-Risk)
+CUST01604,0,Cooling Regulars (At-Risk)
+CUST01605,2,Discontent Dormant (High Negative Feedback)
+CUST01606,2,Discontent Dormant (High Negative Feedback)
+CUST01607,1,Dormant Regulars (Disengaged/Neutral)
+CUST01608,2,Discontent Dormant (High Negative Feedback)
+CUST01609,0,Cooling Regulars (At-Risk)
+CUST01610,3,VIP Loyal
+CUST01611,3,VIP Loyal
+CUST01612,3,VIP Loyal
+CUST01613,1,Dormant Regulars (Disengaged/Neutral)
+CUST01614,2,Discontent Dormant (High Negative Feedback)
+CUST01615,2,Discontent Dormant (High Negative Feedback)
+CUST01616,3,VIP Loyal
+CUST01617,0,Cooling Regulars (At-Risk)
+CUST01618,2,Discontent Dormant (High Negative Feedback)
+CUST01619,2,Discontent Dormant (High Negative Feedback)
+CUST01620,1,Dormant Regulars (Disengaged/Neutral)
+CUST01621,1,Dormant Regulars (Disengaged/Neutral)
+CUST01622,3,VIP Loyal
+CUST01623,4,One-Timer / Lapsed Episodic
+CUST01624,3,VIP Loyal
+CUST01625,1,Dormant Regulars (Disengaged/Neutral)
+CUST01626,1,Dormant Regulars (Disengaged/Neutral)
+CUST01627,2,Discontent Dormant (High Negative Feedback)
+CUST01628,3,VIP Loyal
+CUST01629,0,Cooling Regulars (At-Risk)
+CUST01630,1,Dormant Regulars (Disengaged/Neutral)
+CUST01631,2,Discontent Dormant (High Negative Feedback)
+CUST01632,3,VIP Loyal
+CUST01633,0,Cooling Regulars (At-Risk)
+CUST01634,4,One-Timer / Lapsed Episodic
+CUST01635,0,Cooling Regulars (At-Risk)
+CUST01636,0,Cooling Regulars (At-Risk)
+CUST01637,1,Dormant Regulars (Disengaged/Neutral)
+CUST01638,4,One-Timer / Lapsed Episodic
+CUST01639,3,VIP Loyal
+CUST01640,1,Dormant Regulars (Disengaged/Neutral)
+CUST01641,0,Cooling Regulars (At-Risk)
+CUST01642,0,Cooling Regulars (At-Risk)
+CUST01643,1,Dormant Regulars (Disengaged/Neutral)
+CUST01644,1,Dormant Regulars (Disengaged/Neutral)
+CUST01645,3,VIP Loyal
+CUST01646,2,Discontent Dormant (High Negative Feedback)
+CUST01647,1,Dormant Regulars (Disengaged/Neutral)
+CUST01648,0,Cooling Regulars (At-Risk)
+CUST01649,0,Cooling Regulars (At-Risk)
+CUST01650,0,Cooling Regulars (At-Risk)
+CUST01651,2,Discontent Dormant (High Negative Feedback)
+CUST01652,1,Dormant Regulars (Disengaged/Neutral)
+CUST01653,3,VIP Loyal
+CUST01654,4,One-Timer / Lapsed Episodic
+CUST01655,3,VIP Loyal
+CUST01656,3,VIP Loyal
+CUST01657,0,Cooling Regulars (At-Risk)
+CUST01658,4,One-Timer / Lapsed Episodic
+CUST01659,4,One-Timer / Lapsed Episodic
+CUST01660,1,Dormant Regulars (Disengaged/Neutral)
+CUST01661,1,Dormant Regulars (Disengaged/Neutral)
+CUST01662,0,Cooling Regulars (At-Risk)
+CUST01663,1,Dormant Regulars (Disengaged/Neutral)
+CUST01664,2,Discontent Dormant (High Negative Feedback)
+CUST01665,1,Dormant Regulars (Disengaged/Neutral)
+CUST01666,1,Dormant Regulars (Disengaged/Neutral)
+CUST01667,0,Cooling Regulars (At-Risk)
+CUST01668,1,Dormant Regulars (Disengaged/Neutral)
+CUST01669,2,Discontent Dormant (High Negative Feedback)
+CUST01670,2,Discontent Dormant (High Negative Feedback)
+CUST01671,3,VIP Loyal
+CUST01672,1,Dormant Regulars (Disengaged/Neutral)
+CUST01673,1,Dormant Regulars (Disengaged/Neutral)
+CUST01674,1,Dormant Regulars (Disengaged/Neutral)
+CUST01675,1,Dormant Regulars (Disengaged/Neutral)
+CUST01676,3,VIP Loyal
+CUST01677,0,Cooling Regulars (At-Risk)
+CUST01678,1,Dormant Regulars (Disengaged/Neutral)
+CUST01679,1,Dormant Regulars (Disengaged/Neutral)
+CUST01680,1,Dormant Regulars (Disengaged/Neutral)
+CUST01681,1,Dormant Regulars (Disengaged/Neutral)
+CUST01682,1,Dormant Regulars (Disengaged/Neutral)
+CUST01683,3,VIP Loyal
+CUST01684,1,Dormant Regulars (Disengaged/Neutral)
+CUST01685,2,Discontent Dormant (High Negative Feedback)
+CUST01686,4,One-Timer / Lapsed Episodic
+CUST01688,1,Dormant Regulars (Disengaged/Neutral)
+CUST01689,2,Discontent Dormant (High Negative Feedback)
+CUST01690,0,Cooling Regulars (At-Risk)
+CUST01691,3,VIP Loyal
+CUST01692,2,Discontent Dormant (High Negative Feedback)
+CUST01693,4,One-Timer / Lapsed Episodic
+CUST01694,0,Cooling Regulars (At-Risk)
+CUST01695,0,Cooling Regulars (At-Risk)
+CUST01696,2,Discontent Dormant (High Negative Feedback)
+CUST01697,2,Discontent Dormant (High Negative Feedback)
+CUST01698,1,Dormant Regulars (Disengaged/Neutral)
+CUST01699,0,Cooling Regulars (At-Risk)
+CUST01700,1,Dormant Regulars (Disengaged/Neutral)
+CUST01701,2,Discontent Dormant (High Negative Feedback)
+CUST01702,0,Cooling Regulars (At-Risk)
+CUST01703,1,Dormant Regulars (Disengaged/Neutral)
+CUST01704,3,VIP Loyal
+CUST01705,0,Cooling Regulars (At-Risk)
+CUST01706,1,Dormant Regulars (Disengaged/Neutral)
+CUST01707,0,Cooling Regulars (At-Risk)
+CUST01708,2,Discontent Dormant (High Negative Feedback)
+CUST01709,1,Dormant Regulars (Disengaged/Neutral)
+CUST01710,1,Dormant Regulars (Disengaged/Neutral)
+CUST01711,2,Discontent Dormant (High Negative Feedback)
+CUST01712,0,Cooling Regulars (At-Risk)
+CUST01713,2,Discontent Dormant (High Negative Feedback)
+CUST01714,1,Dormant Regulars (Disengaged/Neutral)
+CUST01715,0,Cooling Regulars (At-Risk)
+CUST01716,2,Discontent Dormant (High Negative Feedback)
+CUST01717,3,VIP Loyal
+CUST01718,2,Discontent Dormant (High Negative Feedback)
+CUST01719,3,VIP Loyal
+CUST01720,0,Cooling Regulars (At-Risk)
+CUST01721,3,VIP Loyal
+CUST01722,3,VIP Loyal
+CUST01723,1,Dormant Regulars (Disengaged/Neutral)
+CUST01724,2,Discontent Dormant (High Negative Feedback)
+CUST01725,2,Discontent Dormant (High Negative Feedback)
+CUST01726,0,Cooling Regulars (At-Risk)
+CUST01727,4,One-Timer / Lapsed Episodic
+CUST01728,1,Dormant Regulars (Disengaged/Neutral)
+CUST01729,0,Cooling Regulars (At-Risk)
+CUST01730,2,Discontent Dormant (High Negative Feedback)
+CUST01731,1,Dormant Regulars (Disengaged/Neutral)
+CUST01732,1,Dormant Regulars (Disengaged/Neutral)
+CUST01733,4,One-Timer / Lapsed Episodic
+CUST01734,1,Dormant Regulars (Disengaged/Neutral)
+CUST01735,1,Dormant Regulars (Disengaged/Neutral)
+CUST01736,1,Dormant Regulars (Disengaged/Neutral)
+CUST01737,1,Dormant Regulars (Disengaged/Neutral)
+CUST01738,1,Dormant Regulars (Disengaged/Neutral)
+CUST01739,3,VIP Loyal
+CUST01740,2,Discontent Dormant (High Negative Feedback)
+CUST01741,1,Dormant Regulars (Disengaged/Neutral)
+CUST01742,3,VIP Loyal
+CUST01743,0,Cooling Regulars (At-Risk)
+CUST01744,4,One-Timer / Lapsed Episodic
+CUST01745,2,Discontent Dormant (High Negative Feedback)
+CUST01746,2,Discontent Dormant (High Negative Feedback)
+CUST01747,2,Discontent Dormant (High Negative Feedback)
+CUST01748,1,Dormant Regulars (Disengaged/Neutral)
+CUST01749,3,VIP Loyal
+CUST01750,1,Dormant Regulars (Disengaged/Neutral)
+CUST01751,1,Dormant Regulars (Disengaged/Neutral)
+CUST01752,0,Cooling Regulars (At-Risk)
+CUST01753,0,Cooling Regulars (At-Risk)
+CUST01755,1,Dormant Regulars (Disengaged/Neutral)
+CUST01757,0,Cooling Regulars (At-Risk)
+CUST01758,3,VIP Loyal
+CUST01759,2,Discontent Dormant (High Negative Feedback)
+CUST01760,0,Cooling Regulars (At-Risk)
+CUST01761,0,Cooling Regulars (At-Risk)
+CUST01762,1,Dormant Regulars (Disengaged/Neutral)
+CUST01763,0,Cooling Regulars (At-Risk)
+CUST01764,3,VIP Loyal
+CUST01765,2,Discontent Dormant (High Negative Feedback)
+CUST01766,1,Dormant Regulars (Disengaged/Neutral)
+CUST01767,3,VIP Loyal
+CUST01768,4,One-Timer / Lapsed Episodic
+CUST01769,1,Dormant Regulars (Disengaged/Neutral)
+CUST01770,3,VIP Loyal
+CUST01771,2,Discontent Dormant (High Negative Feedback)
+CUST01772,2,Discontent Dormant (High Negative Feedback)
+CUST01773,3,VIP Loyal
+CUST01774,0,Cooling Regulars (At-Risk)
+CUST01775,1,Dormant Regulars (Disengaged/Neutral)
+CUST01776,3,VIP Loyal
+CUST01777,1,Dormant Regulars (Disengaged/Neutral)
+CUST01778,3,VIP Loyal
+CUST01779,3,VIP Loyal
+CUST01780,3,VIP Loyal
+CUST01781,0,Cooling Regulars (At-Risk)
+CUST01782,3,VIP Loyal
+CUST01783,2,Discontent Dormant (High Negative Feedback)
+CUST01784,1,Dormant Regulars (Disengaged/Neutral)
+CUST01785,0,Cooling Regulars (At-Risk)
+CUST01786,3,VIP Loyal
+CUST01787,0,Cooling Regulars (At-Risk)
+CUST01788,1,Dormant Regulars (Disengaged/Neutral)
+CUST01789,3,VIP Loyal
+CUST01790,0,Cooling Regulars (At-Risk)
+CUST01791,2,Discontent Dormant (High Negative Feedback)
+CUST01792,2,Discontent Dormant (High Negative Feedback)
+CUST01793,0,Cooling Regulars (At-Risk)
+CUST01794,2,Discontent Dormant (High Negative Feedback)
+CUST01795,1,Dormant Regulars (Disengaged/Neutral)
+CUST01796,2,Discontent Dormant (High Negative Feedback)
+CUST01797,1,Dormant Regulars (Disengaged/Neutral)
+CUST01798,1,Dormant Regulars (Disengaged/Neutral)
+CUST01799,1,Dormant Regulars (Disengaged/Neutral)
+CUST01800,1,Dormant Regulars (Disengaged/Neutral)
+CUST01801,0,Cooling Regulars (At-Risk)
+CUST01802,3,VIP Loyal
+CUST01803,2,Discontent Dormant (High Negative Feedback)
+CUST01804,3,VIP Loyal
+CUST01805,0,Cooling Regulars (At-Risk)
+CUST01806,1,Dormant Regulars (Disengaged/Neutral)
+CUST01807,1,Dormant Regulars (Disengaged/Neutral)
+CUST01808,1,Dormant Regulars (Disengaged/Neutral)
+CUST01809,1,Dormant Regulars (Disengaged/Neutral)
+CUST01810,1,Dormant Regulars (Disengaged/Neutral)
+CUST01811,3,VIP Loyal
+CUST01812,2,Discontent Dormant (High Negative Feedback)
+CUST01813,1,Dormant Regulars (Disengaged/Neutral)
+CUST01814,2,Discontent Dormant (High Negative Feedback)
+CUST01815,0,Cooling Regulars (At-Risk)
+CUST01816,3,VIP Loyal
+CUST01817,1,Dormant Regulars (Disengaged/Neutral)
+CUST01818,1,Dormant Regulars (Disengaged/Neutral)
+CUST01819,1,Dormant Regulars (Disengaged/Neutral)
+CUST01820,4,One-Timer / Lapsed Episodic
+CUST01821,3,VIP Loyal
+CUST01822,0,Cooling Regulars (At-Risk)
+CUST01823,1,Dormant Regulars (Disengaged/Neutral)
+CUST01824,3,VIP Loyal
+CUST01825,4,One-Timer / Lapsed Episodic
+CUST01826,0,Cooling Regulars (At-Risk)
+CUST01827,3,VIP Loyal
+CUST01828,3,VIP Loyal
+CUST01829,1,Dormant Regulars (Disengaged/Neutral)
+CUST01830,1,Dormant Regulars (Disengaged/Neutral)
+CUST01831,4,One-Timer / Lapsed Episodic
+CUST01832,3,VIP Loyal
+CUST01833,3,VIP Loyal
+CUST01834,1,Dormant Regulars (Disengaged/Neutral)
+CUST01835,0,Cooling Regulars (At-Risk)
+CUST01836,1,Dormant Regulars (Disengaged/Neutral)
+CUST01837,0,Cooling Regulars (At-Risk)
+CUST01838,1,Dormant Regulars (Disengaged/Neutral)
+CUST01839,3,VIP Loyal
+CUST01840,2,Discontent Dormant (High Negative Feedback)
+CUST01841,0,Cooling Regulars (At-Risk)
+CUST01842,0,Cooling Regulars (At-Risk)
+CUST01843,1,Dormant Regulars (Disengaged/Neutral)
+CUST01844,2,Discontent Dormant (High Negative Feedback)
+CUST01845,1,Dormant Regulars (Disengaged/Neutral)
+CUST01846,2,Discontent Dormant (High Negative Feedback)
+CUST01847,0,Cooling Regulars (At-Risk)
+CUST01848,1,Dormant Regulars (Disengaged/Neutral)
+CUST01849,0,Cooling Regulars (At-Risk)
+CUST01850,4,One-Timer / Lapsed Episodic
+CUST01851,2,Discontent Dormant (High Negative Feedback)
+CUST01852,1,Dormant Regulars (Disengaged/Neutral)
+CUST01853,2,Discontent Dormant (High Negative Feedback)
+CUST01854,3,VIP Loyal
+CUST01855,1,Dormant Regulars (Disengaged/Neutral)
+CUST01856,1,Dormant Regulars (Disengaged/Neutral)
+CUST01857,3,VIP Loyal
+CUST01858,2,Discontent Dormant (High Negative Feedback)
+CUST01859,2,Discontent Dormant (High Negative Feedback)
+CUST01860,3,VIP Loyal
+CUST01861,1,Dormant Regulars (Disengaged/Neutral)
+CUST01862,2,Discontent Dormant (High Negative Feedback)
+CUST01863,3,VIP Loyal
+CUST01864,2,Discontent Dormant (High Negative Feedback)
+CUST01865,0,Cooling Regulars (At-Risk)
+CUST01866,3,VIP Loyal
+CUST01867,3,VIP Loyal
+CUST01868,3,VIP Loyal
+CUST01869,4,One-Timer / Lapsed Episodic
+CUST01870,2,Discontent Dormant (High Negative Feedback)
+CUST01871,0,Cooling Regulars (At-Risk)
+CUST01872,0,Cooling Regulars (At-Risk)
+CUST01873,3,VIP Loyal
+CUST01874,1,Dormant Regulars (Disengaged/Neutral)
+CUST01875,2,Discontent Dormant (High Negative Feedback)
+CUST01876,2,Discontent Dormant (High Negative Feedback)
+CUST01877,2,Discontent Dormant (High Negative Feedback)
+CUST01878,4,One-Timer / Lapsed Episodic
+CUST01879,1,Dormant Regulars (Disengaged/Neutral)
+CUST01881,0,Cooling Regulars (At-Risk)
+CUST01882,1,Dormant Regulars (Disengaged/Neutral)
+CUST01883,2,Discontent Dormant (High Negative Feedback)
+CUST01884,3,VIP Loyal
+CUST01885,0,Cooling Regulars (At-Risk)
+CUST01886,3,VIP Loyal
+CUST01887,0,Cooling Regulars (At-Risk)
+CUST01888,2,Discontent Dormant (High Negative Feedback)
+CUST01889,0,Cooling Regulars (At-Risk)
+CUST01890,3,VIP Loyal
+CUST01891,4,One-Timer / Lapsed Episodic
+CUST01893,3,VIP Loyal
+CUST01894,1,Dormant Regulars (Disengaged/Neutral)
+CUST01895,0,Cooling Regulars (At-Risk)
+CUST01896,2,Discontent Dormant (High Negative Feedback)
+CUST01897,1,Dormant Regulars (Disengaged/Neutral)
+CUST01898,1,Dormant Regulars (Disengaged/Neutral)
+CUST01899,3,VIP Loyal
+CUST01900,0,Cooling Regulars (At-Risk)
+CUST01901,0,Cooling Regulars (At-Risk)
+CUST01902,0,Cooling Regulars (At-Risk)
+CUST01903,1,Dormant Regulars (Disengaged/Neutral)
+CUST01904,1,Dormant Regulars (Disengaged/Neutral)
+CUST01905,1,Dormant Regulars (Disengaged/Neutral)
+CUST01906,1,Dormant Regulars (Disengaged/Neutral)
+CUST01907,4,One-Timer / Lapsed Episodic
+CUST01908,3,VIP Loyal
+CUST01909,2,Discontent Dormant (High Negative Feedback)
+CUST01910,2,Discontent Dormant (High Negative Feedback)
+CUST01911,0,Cooling Regulars (At-Risk)
+CUST01912,4,One-Timer / Lapsed Episodic
+CUST01913,2,Discontent Dormant (High Negative Feedback)
+CUST01914,0,Cooling Regulars (At-Risk)
+CUST01915,0,Cooling Regulars (At-Risk)
+CUST01916,0,Cooling Regulars (At-Risk)
+CUST01917,2,Discontent Dormant (High Negative Feedback)
+CUST01918,2,Discontent Dormant (High Negative Feedback)
+CUST01919,1,Dormant Regulars (Disengaged/Neutral)
+CUST01920,2,Discontent Dormant (High Negative Feedback)
+CUST01921,1,Dormant Regulars (Disengaged/Neutral)
+CUST01922,0,Cooling Regulars (At-Risk)
+CUST01923,1,Dormant Regulars (Disengaged/Neutral)
+CUST01924,2,Discontent Dormant (High Negative Feedback)
+CUST01925,1,Dormant Regulars (Disengaged/Neutral)
+CUST01926,4,One-Timer / Lapsed Episodic
+CUST01927,2,Discontent Dormant (High Negative Feedback)
+CUST01928,1,Dormant Regulars (Disengaged/Neutral)
+CUST01929,0,Cooling Regulars (At-Risk)
+CUST01930,0,Cooling Regulars (At-Risk)
+CUST01931,1,Dormant Regulars (Disengaged/Neutral)
+CUST01932,4,One-Timer / Lapsed Episodic
+CUST01933,1,Dormant Regulars (Disengaged/Neutral)
+CUST01934,2,Discontent Dormant (High Negative Feedback)
+CUST01935,0,Cooling Regulars (At-Risk)
+CUST01936,0,Cooling Regulars (At-Risk)
+CUST01937,0,Cooling Regulars (At-Risk)
+CUST01938,2,Discontent Dormant (High Negative Feedback)
+CUST01939,4,One-Timer / Lapsed Episodic
+CUST01940,3,VIP Loyal
+CUST01941,1,Dormant Regulars (Disengaged/Neutral)
+CUST01942,2,Discontent Dormant (High Negative Feedback)
+CUST01943,3,VIP Loyal
+CUST01944,2,Discontent Dormant (High Negative Feedback)
+CUST01945,2,Discontent Dormant (High Negative Feedback)
+CUST01946,4,One-Timer / Lapsed Episodic
+CUST01947,1,Dormant Regulars (Disengaged/Neutral)
+CUST01948,0,Cooling Regulars (At-Risk)
+CUST01949,1,Dormant Regulars (Disengaged/Neutral)
+CUST01950,2,Discontent Dormant (High Negative Feedback)
+CUST01951,4,One-Timer / Lapsed Episodic
+CUST01952,1,Dormant Regulars (Disengaged/Neutral)
+CUST01953,0,Cooling Regulars (At-Risk)
+CUST01954,2,Discontent Dormant (High Negative Feedback)
+CUST01955,0,Cooling Regulars (At-Risk)
+CUST01956,0,Cooling Regulars (At-Risk)
+CUST01957,0,Cooling Regulars (At-Risk)
+CUST01958,0,Cooling Regulars (At-Risk)
+CUST01959,1,Dormant Regulars (Disengaged/Neutral)
+CUST01960,1,Dormant Regulars (Disengaged/Neutral)
+CUST01961,0,Cooling Regulars (At-Risk)
+CUST01962,1,Dormant Regulars (Disengaged/Neutral)
+CUST01963,2,Discontent Dormant (High Negative Feedback)
+CUST01964,2,Discontent Dormant (High Negative Feedback)
+CUST01965,0,Cooling Regulars (At-Risk)
+CUST01966,3,VIP Loyal
+CUST01967,0,Cooling Regulars (At-Risk)
+CUST01968,1,Dormant Regulars (Disengaged/Neutral)
+CUST01969,2,Discontent Dormant (High Negative Feedback)
+CUST01970,2,Discontent Dormant (High Negative Feedback)
+CUST01971,3,VIP Loyal
+CUST01972,1,Dormant Regulars (Disengaged/Neutral)
+CUST01973,2,Discontent Dormant (High Negative Feedback)
+CUST01974,3,VIP Loyal
+CUST01975,0,Cooling Regulars (At-Risk)
+CUST01976,0,Cooling Regulars (At-Risk)
+CUST01977,3,VIP Loyal
+CUST01978,0,Cooling Regulars (At-Risk)
+CUST01979,1,Dormant Regulars (Disengaged/Neutral)
+CUST01981,2,Discontent Dormant (High Negative Feedback)
+CUST01982,0,Cooling Regulars (At-Risk)
+CUST01983,3,VIP Loyal
+CUST01984,4,One-Timer / Lapsed Episodic
+CUST01985,1,Dormant Regulars (Disengaged/Neutral)
+CUST01986,1,Dormant Regulars (Disengaged/Neutral)
+CUST01987,1,Dormant Regulars (Disengaged/Neutral)
+CUST01988,1,Dormant Regulars (Disengaged/Neutral)
+CUST01989,1,Dormant Regulars (Disengaged/Neutral)
+CUST01990,2,Discontent Dormant (High Negative Feedback)
+CUST01991,4,One-Timer / Lapsed Episodic
+CUST01992,1,Dormant Regulars (Disengaged/Neutral)
+CUST01993,0,Cooling Regulars (At-Risk)
+CUST01994,3,VIP Loyal
+CUST01995,4,One-Timer / Lapsed Episodic
+CUST01997,0,Cooling Regulars (At-Risk)
+CUST01998,4,One-Timer / Lapsed Episodic
+CUST01999,1,Dormant Regulars (Disengaged/Neutral)
+CUST02000,0,Cooling Regulars (At-Risk)
